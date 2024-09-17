@@ -26,6 +26,7 @@ For a goalkeeper to be considered top, It has to fulfill the following criterion
 
 - Played at least 42% of the league season games;
 > *16 games for the Premier League, La Liga or Serie A which have 20 teams for a total of 38 rounds or 14 games at Bundesliga or Ligue 1 which have 18 teams for a total of 34 rounds.*
+
 - Have high % of saves;
 > *The Save % is the number of balls saved devided by total of Shots On Target Against. Higher Save % means that the goalkeeper is saving a lot of the shots he is facing.*
 
@@ -40,3 +41,18 @@ For a goalkeeper to be considered top, It has to fulfill the following criterion
 - Observe the quantity of Saves/90;
 
 > *This metric is going to show the weakness of the defensive linemen. If it's too high, means that the defensive linemen allowed a high volume of shots per game for the goalkeeper to save.*
+
+## Chart
+
+The scatterplot is built by the Save% v PSxG +/- for 100xG. The size of the points means the Save/90. The 'hotter' the collor more 90s the keepers have played. If a goalkeeper is at the top right of the chart, they are the best, and if it's at the bottom left of the chart, they are the worst.
+
+## Top
+
+
+
+## Worst
+
+
+
+## Outliers
+
