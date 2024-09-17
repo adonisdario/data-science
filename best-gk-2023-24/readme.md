@@ -16,6 +16,8 @@ The fbref.com site is free and has a good amount of data that can be used to cre
 The first link will lead to standard goalkeeper stats, and the second link has advanced stats like PSxG and other data that I will not use.
 Initially, I will restructure the tables, rename columns, delete columns, clean registers with NaN and merge the two tables.
 
+![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/1.png?raw=true)
+
 ### Note #2
 
 Matz Sels is the only goalkeeper that played for two clubs in a season, Nottingham Forest and Strasbourg.
