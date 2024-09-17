@@ -16,7 +16,7 @@ The fbref.com site is free and has a good amount of data that can be used to cre
 The first link will lead to standard goalkeeper stats, and the second link has advanced stats like PSxG and other data that I will not use.
 Initially, I will restructure the tables, rename columns, delete columns, clean registers with NaN and merge the two tables.
 
-![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/1.png?raw=true)
+![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/0.png?raw=true)
 
 ### Note #2
 
@@ -24,7 +24,7 @@ Matz Sels is the only goalkeeper that played for two clubs in a season, Nottingh
 
 ## Standards
 
-For a goalkeeper to be considered top, It has to fulfill the following criterion: 
+For a goalkeeper to be considered top, It has to fulfill the following criteria: 
 
 - Played at least 42% of the league season games;
 > *16 games for the Premier League, La Liga or Serie A which have 20 teams for a total of 38 rounds or 14 games at Bundesliga or Ligue 1 which have 18 teams for a total of 34 rounds.*
@@ -47,6 +47,9 @@ For a goalkeeper to be considered top, It has to fulfill the following criterion
 ## Chart
 
 The scatterplot is built by the Save% v PSxG +/- for 100xG. The size of the points means the Save/90. The 'hotter' the collor more 90s the keepers have played. If a goalkeeper is at the top right of the chart, they are the best, and if it's at the bottom left of the chart, they are the worst.
+The Save% mean is 70.8%, and the PSxG +/- for 100xG mean is -1.69. 
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/1.png?raw=true)
 
 ## Top
 
