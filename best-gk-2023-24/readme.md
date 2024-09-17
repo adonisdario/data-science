@@ -9,8 +9,9 @@ This study will include only the top 5 european leagues, England, Spain, Italy, 
 ## Introduction
 
 Using the links below, I was able to retrieve all the information I needed to create this notebook.
-https://fbref.com/en/comps/Big5/2023-2024/keepers/players/2023-2024-Big-5-European-Leagues-Stats
-https://fbref.com/en/comps/Big5/2023-2024/keepersadv/players/2023-2024-Big-5-European-Leagues-Stats
+1st link: https://fbref.com/en/comps/Big5/2023-2024/keepers/players/2023-2024-Big-5-European-Leagues-Stats
+
+2nd link: https://fbref.com/en/comps/Big5/2023-2024/keepersadv/players/2023-2024-Big-5-European-Leagues-Stats
 The fbref.com site is free and has a good amount of data that can be used to create the analysis.
 The first link will lead to standard goalkeeper stats, and the second link has advanced stats like PSxG and other data that I will not use.
 Initially, I will restructure the tables, rename columns, delete columns, clean registers with NaN and merge the two tables.
