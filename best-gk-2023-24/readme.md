@@ -10,16 +10,33 @@ This study will include only the top 5 european leagues, England, Spain, Italy, 
 
 Using the links below, I was able to retrieve all the information I needed to create this notebook.
 1st link: https://fbref.com/en/comps/Big5/2023-2024/keepers/players/2023-2024-Big-5-European-Leagues-Stats
-
 2nd link: https://fbref.com/en/comps/Big5/2023-2024/keepersadv/players/2023-2024-Big-5-European-Leagues-Stats
+
 The fbref.com site is free and has a good amount of data that can be used to create the analysis.
 The first link will lead to standard goalkeeper stats, and the second link has advanced stats like PSxG and other data that I will not use.
 Initially, I will restructure the tables, rename columns, delete columns, clean registers with NaN and merge the two tables.
 
-## Note #2
+### Note #2
 
 Matz Sels is the only goalkeeper that played for two clubs in a season, Nottingham Forest and Strasbourg.
 
 ## Standards
 
+For a goalkeeper to be considered top, It has to fulfill the following criterion: 
 
+- Played at least 42% of the league season games;
+> *16 games for the Premier League, La Liga or Serie A which have 20 teams for a total of 38 rounds or 14 games at Bundesliga or Ligue 1 which have 18 teams for a total of 34 rounds.*
+- Have high % of saves;
+> *The Save % is the number of balls saved devided by total of Shots On Target Against. Higher Save % means that the goalkeeper is saving a lot of the shots he is facing.*
+
+- Have a high PSxG +/- for every 100 xG;
+
+> *PSxG is a metric that tells the chance of the goal to be scored after the shot was taken, considering the position of the ball, the position of the defenders and the position of the goalkeeper, including penalties kicks.*
+
+> *PSxG +/- is the difference between the sum of the PSxG from all the shots faced and the total goals allowed (GA, not including Own Goals). Positive PSxG +/- means that the goalkeeper avoided a lot of high chance goals. Negative means that the goalkeeper is conceding more low chance goals.*
+
+> Finally, for this metric, we want to determine how many goals can a goalkeeper avoid when facing 100 expected goals.
+
+- Observe the quantity of Saves/90;
+
+> *This metric is going to show the weakness of the defensive linemen. If it's too high, means that the defensive linemen allowed a high volume of shots per game for the goalkeeper to save.*
