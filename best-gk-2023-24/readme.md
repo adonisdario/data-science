@@ -61,16 +61,16 @@ The chart shows that the top goalkeepers of the 2023/24 season are: G. Donnarumm
 ### Analysis
 Note: PSxG +/- for 100xG = Goals Avoided
 - **G. Donnarumma:**
-  - 1st in Save% | 1st in Goals Avoided | 16th in Saves/90 🫠 | 71% of 90s played 😴
-  - His team conceded **a lot** of Shots on target and still was the first in Save% and Goals Avoided. Only played 71% of available matches;
+  - 1st in Save% (84.5%) | 1st in Goals Avoided (+34.0) 🔝 | 16th in Saves/90 (3.7) 🫠 | 71% of 90s played 😴
+  - His team conceded **a lot** of **high value** Shots on target and still was the first in Save% and Goals Avoided. Only played 71% of available matches;
 - **Y. Sommer:**
-  - 2nd in Save% | 2nd in Goals Avoided | 90th in Saves/90 🥱 | 90% of 90s played 🫡
+  - 2nd in Save% (82.7%) | 2nd in Goals Avoided (+25.5) | 90th in Saves/90 (2.3) 🥱 | 90% of 90s played 🫡
   - His team conceded very few Shots on target and the high value ones were Avoided;
 - **M. Di Gregorio:**
-  - 4th in Save% | 4th in Goals Avoided | 13th in Saves/90 🫠 | 84% of 90s played 🩹
+  - 4th in Save% (79.9%) | 4th in Goals Avoided (+22.9) | 13th in Saves/90 (3.8) 🫠 | 84% of 90s played 🩹
   - His team conceded **a lot** of Shots on target and still was the 4th in Save% and Goals Avoided;
 - **B. Samba:**
-  - 5th in Save% | 7th in Goals Avoided | 48th in Saves/90 🙂 | 97% of 90s% played 💪
+  - 5th in Save% (78.7%) | 7th in Goals Avoided (+19.2) | 48th in Saves/90 (3.1) 😐 | 97% of 90s% played 💪
   - His team conceded few Shots on target and most of the high value ones were Avoided;
 ------
 
