@@ -81,7 +81,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
  
 Donnarumma, Sommer, Di Gregorio and Samba appears at the top 10 list of both Save% and Goals Avoided. And by looking at the chart, they appear over the trendline;
 
-Despite playing 71% of the available games, Donnarumma stood out as the best goalkeeper from the top5 leagues.
+Despite playing 71% of the available games, for having the top Save%, the most Goals Avoided and especially the high volume of saves, Donnarumma stood out as the best goalkeeper from the top5 leagues.
 
 ------
 
