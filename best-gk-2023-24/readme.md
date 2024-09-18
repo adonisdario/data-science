@@ -9,7 +9,9 @@ This study will include only the top 5 european leagues, England, Spain, Italy, 
 ## Introduction
 
 Using the links below, I was able to retrieve all the information I needed to create this notebook.
+
 1st link: https://fbref.com/en/comps/Big5/2023-2024/keepers/players/2023-2024-Big-5-European-Leagues-Stats
+
 2nd link: https://fbref.com/en/comps/Big5/2023-2024/keepersadv/players/2023-2024-Big-5-European-Leagues-Stats
 
 The fbref.com site is free and has a good amount of data that can be used to create the analysis.
@@ -55,7 +57,21 @@ The Save% mean is 70.8%, and the PSxG +/- for 100xG mean is -1.69. The red line 
 
 The chart shows that the top goalkeepers of the 2023/24 season are: G. Donnarumma, Y. Sommer, M. Di Gregorio and B. Samba.
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/2.png?raw=true)
-- **G. Donnarumma:** Top1 Save% | Top1 Goals Avoided (PSxG +/- for 100xG) |
+
+### Analysis
+Note: PSxG +/- for 100xG = Goals Avoided
+- **G. Donnarumma:**
+  - 1st in Save% | 1st in Goals Avoided | 16th in Saves/90 🫠 | 71% of 90s played 😴
+  - His team conceded **a lot** of Shots on target and still was the first in Save% and Goals Avoided. Only played 71% of available matches;
+- **Y. Sommer:**
+  - 2nd in Save% | 2nd in Goals Avoided | 90th in Saves/90 🥱 | 90% of 90s played 🫡
+  - His team conceded very few Shots on target and the high value ones were Avoided;
+- **M. Di Gregorio:**
+  - 4th in Save% | 4th in Goals Avoided | 13th in Saves/90 🫠 | 84% of 90s played 🩹
+  - His team conceded **a lot** of Shots on target and still was the 4th in Save% and Goals Avoided;
+- **B. Samba:**
+  - 5th in Save% | 7th in Goals Avoided | 48th in Saves/90 🙂 | 97% of 90s% played 💪
+  - His team conceded few Shots on target and most of the high value ones were Avoided;
 ------
 
 ## Worst
