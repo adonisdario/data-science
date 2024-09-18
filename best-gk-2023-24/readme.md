@@ -42,9 +42,13 @@ For a goalkeeper to be considered top, It has to fulfill the following criteria:
 
 > Finally, for this metric, we want to determine how many goals can a goalkeeper avoid when facing 100 expected goals.
 
-- Observe the quantity of Saves/90;
+- Consider the quantity of Saves/90;
 
 > *This metric is going to show the weakness of the defensive linemen. If it's too high, means that the defensive linemen allowed a high volume of shots per game for the goalkeeper to save.*
+
+### Rejected metrics
+
+Goals conceded and Clean sheets were discarded because these metrics are for the entire defensive system, not only for the goalkeeper.
 
 ## Chart
 
@@ -58,8 +62,10 @@ The Save% mean is 70.8%, and the PSxG +/- for 100xG mean is -1.69. The red line 
 The chart shows that the top goalkeepers of the 2023/24 season are: G. Donnarumma, Y. Sommer, M. Di Gregorio and B. Samba.
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/2.png?raw=true)
 
-### Analysis
+### Top Goalkeeper Analysis
+
 Note: PSxG +/- for 100xG = Goals Avoided
+
 - **G. Donnarumma:**
   - 1st in Save% (84.5%) | 1st in Goals Avoided (+34.0) 🔝 | 16th in Saves/90 (3.7) 🫠 | 71% of 90s played 😴
   - His team conceded **a lot** of **high value** Shots on target and still was the first in Save% and Goals Avoided. Only played 71% of available matches;
@@ -72,6 +78,11 @@ Note: PSxG +/- for 100xG = Goals Avoided
 - **B. Samba:**
   - 5th in Save% (78.7%) | 7th in Goals Avoided (+19.2) | 48th in Saves/90 (3.1) 😐 | 97% of 90s% played 💪
   - His team conceded few Shots on target and most of the high value ones were Avoided;
+ 
+Donnarumma, Sommer, Di Gregorio and Samba appears at the top 10 list of both Save% and Goals Avoided. And by looking at the chart, they appear over the trendline;
+
+Despite playing 71% of the available games, Donnarumma stood out as the best goalkeeper from the top5 leagues.
+
 ------
 
 ## Worst
