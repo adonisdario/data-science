@@ -59,7 +59,6 @@ The Save% mean is 70.8%, and the PSxG +/- for 100xG mean is -1.69. The red line 
 
 ## Top Goalkeepers
 
-The chart shows that the top goalkeepers of the 2023/24 season are: G. Donnarumma, Y. Sommer, M. Di Gregorio and B. Samba.
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/2.png?raw=true)
 
 ### Top Goalkeeper Analysis
@@ -81,7 +80,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
  
 Donnarumma, Sommer, Di Gregorio and Samba appears at the top 10 list of both Save% and Goals Avoided. And by looking at the chart, they appear over the trendline;
 
-Despite playing 71% of the available games, for having the top Save%, the most Goals Avoided and especially the high volume of saves, Donnarumma stood out as the best goalkeeper from the top5 leagues.
+Despite playing 71% of the available games, for having the top Save%, the most Goals Avoided and especially the high volume of saves, **G. Donnarumma** stood out as the best goalkeeper from the top5 leagues.
 
 ------
 
