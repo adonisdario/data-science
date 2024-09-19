@@ -42,9 +42,9 @@ For a goalkeeper to be considered top, It has to fulfill the following criteria:
 
 > Finally, for this metric, we want to determine how many goals can a goalkeeper avoid when facing 100 expected goals.
 
-- Consider the quantity of Saves/90;
+- Consider the quantity of SoTA/90 and Saves/90;
 
-> *This metric is going to show the weakness of the defensive linemen. If it's too high, means that the defensive linemen allowed a high volume of shots per game for the goalkeeper to save.*
+> *This metrics are going to show the weakness of the defensive linemen. High number of Shots on Target Against /90 and a high number of Saves /90 means that the defence is weak and the goalkeeper is outstanding. The contrary means that the defence is good but the goalkeeper is failing.*
 
 ### Rejected metrics
 
