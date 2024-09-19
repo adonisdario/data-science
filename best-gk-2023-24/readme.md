@@ -52,7 +52,7 @@ Goals conceded and Clean sheets were discarded because these metrics are for the
 
 ## Chart
 
-The scatterplot is built by the Save% v PSxG +/- for 100xG. The size of the points means the Save/90. The 'hotter' the collor more 90s the keepers have played. If a goalkeeper is at the top right of the chart, they are the best, and if it's at the bottom left of the chart, they are the worst.
+The scatterplot is built by the Save% v PSxG +/- for 100xG. The size of the points means the Save/90. The 'hotter' the collor means more 90s the keepers have played. If a goalkeeper is at the top right of the chart, they are the best, and if it's at the bottom left of the chart, they are the worst.
 The Save% mean is 70.8%, and the PSxG +/- for 100xG mean is -1.69. The red line is the trendline of the chart.
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/1.png?raw=true)
