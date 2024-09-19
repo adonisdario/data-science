@@ -61,6 +61,8 @@ The Save% mean is 70.8%, and the PSxG +/- for 100xG mean is -1.69. The red line 
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/2.png?raw=true)
 
+> Donnarumma, Sommer, Di Gregorio and Samba appears at the top 10 list of both Save% and Goals Avoided. And by looking at the chart, they appear over the trendline;
+
 ### Top Goalkeeper Analysis
 
 Note: PSxG +/- for 100xG = Goals Avoided
@@ -85,8 +87,6 @@ Note: PSxG +/- for 100xG = Goals Avoided
   -   GK: 5th in Save% (78.7%) | 7th in Goals Avoided (+19.2) | 48th in Saves/90 (3.1) | 97% of 90s played
   - Team: 65th in SoTA/90 (4.1) | 58th in PSxG/90 (1.3)
     > *His team conceded a low amount of Shots on target with regular value chances in average.*
- 
-Donnarumma, Sommer, Di Gregorio and Samba appears at the top 10 list of both Save% and Goals Avoided. And by looking at the chart, they appear over the trendline;
 
 ### Conclusion
 
