@@ -99,23 +99,23 @@ Note: PSxG +/- for 100xG = Goals Avoided
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/3.png?raw=true)
 
 - **M. Sels (Strasbourg / N. Forest):**
-  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
+  -   GK: 98th in Save% (60.2%) | 99th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
   - Team: 14th in SoTA/90 (3.5) | 21st in PSxG/90 (1.1)
     > *His team conceded few Shots on target and most of the high value ones were Avoided;*
 
 - **Sam Johnstone:**
-  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
-  - Team: 14th in SoTA/90 (3.5) | 
+  -   GK: 96th in Save% (62.7%) | 100th in Goals Avoided (-30.0) | 98th in Saves/90 (2.1) | 53% of 90s played
+  - Team: 11th in SoTA/90 (3.4) | 11th in PSxG/90 (1.0)
     > *His team conceded few Shots on target and most of the high value ones were Avoided;*    
 
 - **Alaa Bellaarouch:**
-  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
-  - Team: 14th in SoTA/90 (3.5) | 
+  -   GK: 92nd in Save% (63.5%) | 98th in Goals Avoided (-26.3) | 82nd in Saves/90 (2.5) | 44% of 90s played
+  - Team: 44th in SoTA/90 (4.2) | 46th in PSxG/90 (1.3)
     > *His team conceded few Shots on target and most of the high value ones were Avoided;* 
 
 - **Andrea Consigli:**
-  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
-  - Team: 14th in SoTA/90 (3.5) | 
+  -   GK: 98th in Save% (61.6%) | 97th in Goals Avoided (-25.7) | 73rd in Saves/90 (2.7) | 92% of 90s played
+  - Team: 62nd in SoTA/90 (4.5) | 67th in PSxG/90 (1.5)
     > *His team conceded few Shots on target and most of the high value ones were Avoided;* 
 
 ## Outliers
