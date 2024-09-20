@@ -106,12 +106,16 @@ Note: PSxG +/- for 100xG = Goals Avoided
 - **Sam Johnstone:**
   -   GK: 96th in Save% (62.7%) | 100th in Goals Avoided (-30.0) | 98th in Saves/90 (2.1) | 53% of 90s played
   - Team: 11th in SoTA/90 (3.4) | 11th in PSxG/90 (1.0)
-    > *His team conceded few Shots on target and most of the high value ones were Avoided;*    
+    > *Missed almost half the season due to injury;*
+    
+    > *His team conceded **very few** Shots on target with **very low** value chances. Still, he was bottom 4 of Save% and bottom 2 of Goals Avoided.*    
 
 - **Alaa Bellaarouch:**
   -   GK: 92nd in Save% (63.5%) | 98th in Goals Avoided (-26.3) | 82nd in Saves/90 (2.5) | 44% of 90s played
   - Team: 44th in SoTA/90 (4.2) | 46th in PSxG/90 (1.3)
-    > *His team conceded few Shots on target and most of the high value ones were Avoided;* 
+    > *Was 3rd choice goalkeeper for most of the season;*
+       
+    > *His team conceded low amount of Shots on target with low value chances. Still, he was bottom 9 of Save% and bottom 3 of Goals Avoided;* 
 
 - **Andrea Consigli:**
   -   GK: 98th in Save% (61.6%) | 97th in Goals Avoided (-25.7) | 73rd in Saves/90 (2.7) | 92% of 90s played
