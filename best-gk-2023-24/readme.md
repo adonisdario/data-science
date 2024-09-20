@@ -69,23 +69,23 @@ Note: PSxG +/- for 100xG = Goals Avoided
 
 - **G. Donnarumma:**
   -   GK: 1st in Save% (84.5%) 🔝 | 1st in Goals Avoided (+34.0) 🔝 | 16th in Saves/90 (3.7) | 71% of 90s played 
-  - Team: 38th in SoTA/90 (4.6) | 63rd in PSxG/90 (1.3)
+  - Team: 64th in SoTA/90 (4.6) | 39th in PSxG/90 (1.3)
     > *Only played 71% of available matches due to the coach's choice;*
     
     > *His team conceded a **high** amount of Shots on target with low value chances in average.*
 - **Y. Sommer:**
   -   GK: 2nd in Save% (82.7%) | 2nd in Goals Avoided (+25.5) | 90th in Saves/90 (2.3) | 90% of 90s played 
-  - Team: 99th in SoTA/90 (2.9) | 100th in PSxG/90 (0.8)
+  - Team: 3rd in SoTA/90 (2.9) | 2nd in PSxG/90 (0.8)
     > *His team conceded very few Shots on target with very low value chances in average.*
 - **M. Di Gregorio:**
   -   GK: 4th in Save% (79.9%) | 4th in Goals Avoided (+22.9) | 13th in Saves/90 (3.8) | 84% of 90s played 
-  - Team: 24th in SoTA/90 (5.0) | 44th in PSxG/90 (1.4)
+  - Team: 77th in SoTA/90 (5.0) | 58th in PSxG/90 (1.4)
     > *Missed some games due to injury;*
   
     > *His team conceded a **high** amount of Shots on target with regular value chances in average.*
 - **B. Samba:**
   -   GK: 5th in Save% (78.7%) | 7th in Goals Avoided (+19.2) | 48th in Saves/90 (3.1) | 97% of 90s played
-  - Team: 65th in SoTA/90 (4.1) | 58th in PSxG/90 (1.3)
+  - Team: 37th in SoTA/90 (4.1) | 44th in PSxG/90 (1.3)
     > *His team conceded a low amount of Shots on target with regular value chances in average.*
 
 ### Conclusion
@@ -99,8 +99,24 @@ Note: PSxG +/- for 100xG = Goals Avoided
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/3.png?raw=true)
 
 - **M. Sels (Strasbourg / N. Forest):**
-  - 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) 👎 | 98% of 90s played
-  - His team conceded few Shots on target and most of the high value ones were Avoided;
+  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
+  - Team: 14th in SoTA/90 (3.5) | 21st in PSxG/90 (1.1)
+    > *His team conceded few Shots on target and most of the high value ones were Avoided;*
+
+- **Sam Johnstone:**
+  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
+  - Team: 14th in SoTA/90 (3.5) | 
+    > *His team conceded few Shots on target and most of the high value ones were Avoided;*    
+
+- **Alaa Bellaarouch:**
+  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
+  - Team: 14th in SoTA/90 (3.5) | 
+    > *His team conceded few Shots on target and most of the high value ones were Avoided;* 
+
+- **Andrea Consigli:**
+  -   GK: 96th in Save% (60.2%) | 97th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
+  - Team: 14th in SoTA/90 (3.5) | 
+    > *His team conceded few Shots on target and most of the high value ones were Avoided;* 
 
 ## Outliers
 
