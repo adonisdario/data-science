@@ -111,7 +111,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
 
 ### Matz Sels
 
-![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/6.png?raw=true)
+![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/5.png?raw=true)
 
 - **M. Sels (Strasbourg and N. Forest combined):** Great defences, Awful goalkeeping.
   -   GK: 98th in Save% (60.2%) | 99th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
