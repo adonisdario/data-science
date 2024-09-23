@@ -70,9 +70,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
 - **G. Donnarumma** (Paris SG):
   -   GK: 1st in Save% (84.5%) 🔝 | 1st in Goals Avoided (+34.0) 🔝 | 16th in Saves/90 (3.7) | 71% of 90s played 
   - Team: 64th in SoTA/90 (4.6) | 39th in PSxG/90 (1.3)
-    > *Only played 71% of available matches due to the coach's choice;*
-    
-    > *His team conceded a **high** amount of Shots on target with low value chances in average.*
+    > *Only played 71% of available matches due to the coach's choice; His team conceded a **high** amount of Shots on target with low value chances in average.*
 - **Y. Sommer** (Internazionale):
   -   GK: 2nd in Save% (82.7%) | 2nd in Goals Avoided (+25.5) | 90th in Saves/90 (2.3) | 90% of 90s played 
   - Team: 3rd in SoTA/90 (2.9) | 2nd in PSxG/90 (0.8)
@@ -80,9 +78,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
 - **M. Di Gregorio** (Monza):
   -   GK: 4th in Save% (79.9%) | 4th in Goals Avoided (+22.9) | 13th in Saves/90 (3.8) | 84% of 90s played 
   - Team: 77th in SoTA/90 (5.0) | 58th in PSxG/90 (1.4)
-    > *Missed some games due to injury;*
-  
-    > *His team conceded a **high** amount of Shots on target with regular value chances in average.*
+    > *Missed some games due to injury; His team conceded a **high** amount of Shots on target with regular value chances in average.*
 - **B. Samba** (Lens):
   -   GK: 5th in Save% (78.7%) | 7th in Goals Avoided (+19.2) | 48th in Saves/90 (3.1) | 97% of 90s played
   - Team: 37th in SoTA/90 (4.1) | 44th in PSxG/90 (1.3)
@@ -101,16 +97,12 @@ Note: PSxG +/- for 100xG = Goals Avoided
 - **Sam Johnstone** (C. Palace): Great defense, Awful goalkeeping, Injured in 47% of the games.
   -   GK: 95th in Save% (62.7%) | 100th in Goals Avoided (-30.0) | 98th in Saves/90 (2.1) | 53% of 90s played
   - Team: 11th in SoTA/90 (3.4) | 11th in PSxG/90 (1.0)
-    > *Missed almost half the season due to injury;*
-    
-    > *His team conceded **very few** Shots on target with **very low** value chances. Still, he was bottom 4 of Save% and bottom 2 of Goals Avoided.*    
+    > *Missed almost half the season due to injury; His team conceded **very few** Shots on target with **very low** value chances. Still, he was bottom 4 of Save% and bottom 2 of Goals Avoided.*    
 
 - **Alaa Bellaarouch** (Strasbourg) Good defense, Awful goalkeeping, Benched in 56% of the games.
   -   GK: 91st in Save% (63.5%) | 97th in Goals Avoided (-26.3) | 82nd in Saves/90 (2.5) | 44% of 90s played
   - Team: 44th in SoTA/90 (4.2) | 46th in PSxG/90 (1.3)
-    > *Was 3rd choice goalkeeper for most of the season;*
-       
-    > *His team conceded low amount of Shots on target with low value chances. Still, he was bottom 9 of Save% and bottom 3 of Goals Avoided;* 
+    > *Was 3rd choice goalkeeper for most of the season; His team conceded low amount of Shots on target with low value chances. Still, he was bottom 9 of Save% and bottom 3 of Goals Avoided;* 
 
 - **Andrea Consigli** (Sassuolo) Average defense, Awful goalkeeping.
   -   GK: 97th in Save% (61.6%) | 96th in Goals Avoided (-25.7) | 73rd in Saves/90 (2.7) | 92% of 90s played
@@ -139,11 +131,13 @@ Being only goalkeeper that played for 2 different clubs in the 2023/24 season, l
     - PSxG/90:        20th  (1.05)   | **24th (1.08)**
 
 Strasbourg:
-  > *Strasbourg had a very good defense, conceding very few Shots on Target with very low value chances, and still was struggling because of M. Sels being at the bottom 10 of Save%, Seves/90 and Goals Avoided.*
+  > *Strasbourg had a very good defense, conceding very few Shots on Target with very low value chances, and still was struggling because of M. Sels being at the bottom 10 of Save%, Seves/90 and Goals Avoided;*
+
   > *After M. Sels departure, Alaa Bellaarouch took his place. His performances were slightly better than Sels', still it was very bad. However, the defensive linemen got worse and Strasbourg struggled to secure a place in the Ligue 1.*
  
 Nottingham Forest:
-  > *Before M. Sels arrival at N. Forest, the team was 64th in SoTA/90 (4.6) and 62nd in PSxG/90 (1.4). As for the goalkeepers, they were 99th in Save% (58.8%), 101st in Goals Avoided (-39.3) and 82nd in Saves/90 (2.5).*
+  > *Before M. Sels arrival at N. Forest, the team was 64th in SoTA/90 (4.6) and 62nd in PSxG/90 (1.4). As for the goalkeepers, they were 99th in Save% (58.8%), 101st in Goals Avoided (-39.3) and 82nd in Saves/90 (2.5);*
+
   > *After M. Sels arrival, the defensive linemen improved from regular to good, but not because of Sels' performances. In fact, he was slightly worse than the previous goalkeepers, becoming the worst goalkeeper in Save%, Goals Avoided and bottom 10 in Saves/90.*
 
 ### Conclusion
