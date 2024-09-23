@@ -98,29 +98,58 @@ Note: PSxG +/- for 100xG = Goals Avoided
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/3.png?raw=true)
 
-- **M. Sels (Strasbourg / N. Forest):**
-  -   GK: 98th in Save% (60.2%) | 99th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
-  - Team: 14th in SoTA/90 (3.5) | 21st in PSxG/90 (1.1)
-    > *His team conceded few Shots on target and most of the high value ones were Avoided;*
-
 - **Sam Johnstone:**
-  -   GK: 96th in Save% (62.7%) | 100th in Goals Avoided (-30.0) | 98th in Saves/90 (2.1) | 53% of 90s played
+  -   GK: 95th in Save% (62.7%) | 100th in Goals Avoided (-30.0) | 98th in Saves/90 (2.1) | 53% of 90s played
   - Team: 11th in SoTA/90 (3.4) | 11th in PSxG/90 (1.0)
     > *Missed almost half the season due to injury;*
     
     > *His team conceded **very few** Shots on target with **very low** value chances. Still, he was bottom 4 of Save% and bottom 2 of Goals Avoided.*    
 
 - **Alaa Bellaarouch:**
-  -   GK: 92nd in Save% (63.5%) | 98th in Goals Avoided (-26.3) | 82nd in Saves/90 (2.5) | 44% of 90s played
+  -   GK: 91st in Save% (63.5%) | 97th in Goals Avoided (-26.3) | 82nd in Saves/90 (2.5) | 44% of 90s played
   - Team: 44th in SoTA/90 (4.2) | 46th in PSxG/90 (1.3)
     > *Was 3rd choice goalkeeper for most of the season;*
        
     > *His team conceded low amount of Shots on target with low value chances. Still, he was bottom 9 of Save% and bottom 3 of Goals Avoided;* 
 
 - **Andrea Consigli:**
-  -   GK: 98th in Save% (61.6%) | 97th in Goals Avoided (-25.7) | 73rd in Saves/90 (2.7) | 92% of 90s played
+  -   GK: 97th in Save% (61.6%) | 96th in Goals Avoided (-25.7) | 73rd in Saves/90 (2.7) | 92% of 90s played
   - Team: 62nd in SoTA/90 (4.5) | 67th in PSxG/90 (1.5)
-    > *His team conceded few Shots on target and most of the high value ones were Avoided;* 
+    > *His team conceded few Shots on target and most of the high value ones were Avoided;*
+
+- **M. Sels (Strasbourg and N. Forest):**
+  -   GK: 98th in Save% (60.2%) | 99th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
+  - Team: 14th in SoTA/90 (3.5) | 21st in PSxG/90 (1.1)
+    > *His team conceded few Shots on target and most of the high value ones were Avoided;*
+
+## Matz Sels
+
+Being only goalkeeper that played for 2 different clubs in the 2023/24 season, let's analyse his performance for each team.
+
+- **M. Sels (Strasbourg x Nottinham Forest):**
+  
+  GK:
+    -  Save%:         94th  (62.9%) | **101st (57.4%)**
+    -  Goals Avoided: 99th  (-27.7) | **101st (-45.4)**
+    -  Saves/90:      **97th  (2.2)**   | 93rd  (2.3)
+    -  90s played:    56%           | 42%
+      
+  Team:
+    - SoTA/90:        9th   (3.5)    | **24th (3.8)**
+    - PSxG/90:        20th  (1.05)   | **24th (1.08)**
+
+Strasbourg:
+  > *Strasbourg had a very good defense, conceding very few Shots on Target with very low value chances, and still was struggling because of M. Sels being at the bottom 10 of Save%, Seves/90 and Goals Avoided.*
+  > *After M. Sels departure, Alaa Bellaarouch took his place. His performances were slightly better than Sels', still it was very bad. However, the defensive linemen got worse and Strasbourg struggled to secure a place in the Ligue 1.*
+ 
+Nottingham Forest:
+  > *Before M. Sels arrival at N. Forest, the team was 64th in SoTA/90 (4.6) and 62nd in PSxG/90 (1.4). As for the goalkeepers, they were 99th in Save% (58.8%), 101st in Goals Avoided (-39.3) and 82nd in Saves/90 (2.5).*
+  > *After M. Sels arrival, the defensive linemen improved from regular to good, but not because of Sels' performances. In fact, he was slightly worse than the previous goalkeepers, becoming the worst goalkeepers in Save%, Goals Avoided and bottom 10 in Saves/90.*
+
+### Conclusion
+
+**M. Sels** stood out as the worst goalkeeper from the top5 leagues. He was in 2 different teams, with good defensive linemen and still had the worst numbers. Strasbourg and N. Forest struggled to secure a place in the 1st division of their leagues mostly because of M. Sels' performances
+
 
 ## Outliers
 
