@@ -94,33 +94,33 @@ Note: PSxG +/- for 100xG = Goals Avoided
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/3.png?raw=true)
 
-- **Sam Johnstone** (C. Palace): Great defense, Awful goalkeeping, Injured in 47% of the games.
+- **S. Johnstone** (C. Palace): Great defense, Awful goalkeeping, Injured in 47% of the games.
   -   GK: 95th in Save% (62.7%) | 100th in Goals Avoided (-30.0) | 98th in Saves/90 (2.1) | 53% of 90s played
   - Team: 11th in SoTA/90 (3.4) | 11th in PSxG/90 (1.0)
     > *Missed almost half the season due to injury; His team conceded **very few** Shots on target with **very low** value chances. Still, he was bottom 4 of Save% and bottom 2 of Goals Avoided.*    
 
-- **Alaa Bellaarouch** (Strasbourg) Good defense, Awful goalkeeping, Benched in 56% of the games.
+- **A. Bellaarouch** (Strasbourg) Good defense, Awful goalkeeping, Benched in 56% of the games.
   -   GK: 91st in Save% (63.5%) | 97th in Goals Avoided (-26.3) | 82nd in Saves/90 (2.5) | 44% of 90s played
   - Team: 44th in SoTA/90 (4.2) | 46th in PSxG/90 (1.3)
     > *Was 3rd choice goalkeeper for most of the season; His team conceded low amount of Shots on target with low value chances. Still, he was bottom 9 of Save% and bottom 3 of Goals Avoided;* 
 
-- **Andrea Consigli** (Sassuolo) Average defense, Awful goalkeeping.
+- **A. Consigli** (Sassuolo) Average defense, Awful goalkeeping.
   -   GK: 97th in Save% (61.6%) | 96th in Goals Avoided (-25.7) | 73rd in Saves/90 (2.7) | 92% of 90s played
   - Team: 62nd in SoTA/90 (4.5) | 67th in PSxG/90 (1.5)
-    > *His team conceded a regular amount of Shots on target with an average of regular value value chances. Having a regular defence, Consigli underperformed his defence by far, playing almost all games available and earning his place at the Worst goalkeepers list*
+    > *His team conceded a regular amount of Shots on target with an average of regular value chances. Having a regular defence, Consigli underperformed his defence by far, playing almost all games available and earning his place at the Worst goalkeepers list*
 
 ### Matz Sels
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/5.png?raw=true)
 
-- **M. Sels (Strasbourg and N. Forest combined):** Great defences, Awful goalkeeping.
+- **Matz Sels (Strasbourg and N. Forest combined):** Great defences, Awful goalkeeping.
   -   GK: 98th in Save% (60.2%) | 99th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
   - Team: 14th in SoTA/90 (3.5) | 21st in PSxG/90 (1.1)
     > *His teams conceded **very few** Shots on target with low value chances in average. Still, his performances were terrible, being in the bottom 5 of Save%, Goals Avoided and Saves/90.*
 
 Being only goalkeeper that played for 2 different clubs in the 2023/24 season, let's analyse his performance for each team.
 
-- **M. Sels (Strasbourg x Nottinham Forest):**
+- **Matz Sels (Strasbourg x Nottinham Forest):**
   
   GK:
     -  Save%:         94th  (62.9%) | **101st (57.4%)**
@@ -150,3 +150,20 @@ Nottingham Forest:
 
 ## Outliers
 
+Looking at the chart of the best goalkeepers we can see that there are two that cought my attention: E. Martínez and M. Maignan.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/4.png?raw=true)
+
+- **E. Martínez** (Aston Villa): Low Save% but a lot of Goals Avoided.
+  -   GK: 81st in Save% (66.2%) | 11th in Goals Avoided (+13.4) | 61st in Saves/90 (2.8) | 88% of 90s played
+  - Team: 41st in SoTA/90 (4.2) | 73rd in PSxG/90 (1.5)
+    > *His team conceded a regular amount of Shots on target with an average of **high** value chances. E. Martínez didn't make a lot of saves, but the saves that he made were fantastic.*
+    
+- **M. Maignan** (Milan): Very High Save% but very low Goals Avoided.
+  -   GK:  7th in Save% (77.5%) | 87th in Goals Avoided (-14.1) | 52nd in Saves/90 (3.0) | 76% of 90s played
+  - Team: 40th in SoTA/90 (4.1) | 16th in PSxG/90 (1.0)
+    > *His team conceded a regular amount of Shots on target with an average of **very low** value chances. M. Maignan had a solid defence that forced the opposition to have low value chances. Sometimes when things got tricky for the defensive linemen, Maignan did'nt excelled.*
+
+### Conclusion
+
+E. Martínez was the goalkeeper that is there when you need him the most. His team was agressive and he made important saves when his defence got past by. He was the star of the defense. M. Maignan on the other hand could've made his team one of the top defenses of the world, if he had made the hardest saves.
