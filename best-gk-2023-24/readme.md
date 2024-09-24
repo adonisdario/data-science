@@ -20,10 +20,6 @@ Initially, I will restructure the tables, rename columns, delete columns, clean 
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/0.png?raw=true)
 
-### Note #2
-
-Matz Sels is the only goalkeeper that played for two clubs in a season, Nottingham Forest and Strasbourg.
-
 ## Standards
 
 For a goalkeeper to be considered top, It has to fulfill the following criteria: 
@@ -84,7 +80,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
   - Team: 37th in SoTA/90 (4.1) | 44th in PSxG/90 (1.3)
     > *His team conceded a low amount of Shots on target with regular value chances in average.*
 
-### Conclusion
+### Top Goalies Conclusion
 
 **G. Donnarumma** stood out as the best goalkeeper from the top5 leagues. His defence was worse than Y. Sommer's, meaning, he had to work harder to achieve the top standards.
 
@@ -93,6 +89,8 @@ Note: PSxG +/- for 100xG = Goals Avoided
 ## Worst Goalkeepers
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/3.png?raw=true)
+
+### Worst Goalkeeper Analysis
 
 - **S. Johnstone** (C. Palace): Great defense, Awful goalkeeping, Injured in 47% of the games.
   -   GK: 95th in Save% (62.7%) | 100th in Goals Avoided (-30.0) | 98th in Saves/90 (2.1) | 53% of 90s played
@@ -111,6 +109,8 @@ Note: PSxG +/- for 100xG = Goals Avoided
 
 ### Matz Sels
 
+This goalkeeper is on the list of the worst of the Season, but he has a peculiarity. He is the only player that played for two different clubs. And he was bad at **both**.
+
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/5.png?raw=true)
 
 - **Matz Sels (Strasbourg and N. Forest combined):** Great defences, Awful goalkeeping.
@@ -118,7 +118,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
   - Team: 14th in SoTA/90 (3.5) | 21st in PSxG/90 (1.1)
     > *His teams conceded **very few** Shots on target with low value chances in average. Still, his performances were terrible, being in the bottom 5 of Save%, Goals Avoided and Saves/90.*
 
-Being only goalkeeper that played for 2 different clubs in the 2023/24 season, let's analyse his performance for each team.
+Now, let's analyse his performance for each team.
 
 - **Matz Sels (Strasbourg x Nottinham Forest):**
   
@@ -142,7 +142,7 @@ Nottingham Forest:
 
   > *After M. Sels arrival, the defensive linemen improved from regular to good, but not because of Sels' performances. In fact, he was slightly worse than the previous goalkeepers, becoming the worst goalkeeper in Save%, Goals Avoided and bottom 10 in Saves/90.*
 
-### Conclusion
+### Worst Goalie Conclusion
 
 **M. Sels** stood out as the worst goalkeeper from the top5 leagues. He was in 2 different teams, with good defensive linemen and still had the worst numbers. Strasbourg and N. Forest struggled to secure a place in the 1st division of their leagues mostly because of M. Sels' performances.
 
@@ -150,9 +150,11 @@ Nottingham Forest:
 
 ## Outliers
 
-Looking at the chart of the best goalkeepers we can see that there are two that cought my attention: E. Martínez and M. Maignan.
+Looking at the chart of the best goalkeepers there are two that cought my attention: E. Martínez and M. Maignan. They were very good at one metric and very bad at the other.
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/images/4.png?raw=true)
+
+### Outliers Analysis
 
 - **E. Martínez** (Aston Villa): Low Save% but a lot of Goals Avoided.
   -   GK: 81st in Save% (66.2%) | 11th in Goals Avoided (+13.4) | 61st in Saves/90 (2.8) | 88% of 90s played
@@ -164,6 +166,6 @@ Looking at the chart of the best goalkeepers we can see that there are two that 
   - Team: 40th in SoTA/90 (4.1) | 16th in PSxG/90 (1.0)
     > *His team conceded a regular amount of Shots on target with an average of **very low** value chances. M. Maignan had a solid defence that forced the opposition to have low value chances. Sometimes when things got tricky for the defensive linemen, Maignan did'nt excelled.*
 
-### Conclusion
+### Outliers Conclusion
 
 E. Martínez was the goalkeeper that is there when you need him the most. His team was agressive and he made important saves when his defence got past by. He was the star of the defense. M. Maignan on the other hand could've made his team one of the top defenses of the world, if he had made the hardest saves.
