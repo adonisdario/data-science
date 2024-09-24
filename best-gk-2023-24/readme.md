@@ -116,7 +116,7 @@ Note: PSxG +/- for 100xG = Goals Avoided
 - **M. Sels (Strasbourg and N. Forest combined):** Great defences, Awful goalkeeping.
   -   GK: 98th in Save% (60.2%) | 99th in Goals Avoided (-27.7) | 95th in Saves/90 (2.2) | 98% of 90s played
   - Team: 14th in SoTA/90 (3.5) | 21st in PSxG/90 (1.1)
-    > *His teams conceded few Shots on target and most of the high value ones were Avoided;*
+    > *His teams conceded **very few** Shots on target with low value chances in average. Still, his performances were terrible, being in the bottom 5 of Save%, Goals Avoided and Saves/90.*
 
 Being only goalkeeper that played for 2 different clubs in the 2023/24 season, let's analyse his performance for each team.
 
@@ -146,6 +146,7 @@ Nottingham Forest:
 
 **M. Sels** stood out as the worst goalkeeper from the top5 leagues. He was in 2 different teams, with good defensive linemen and still had the worst numbers. Strasbourg and N. Forest struggled to secure a place in the 1st division of their leagues mostly because of M. Sels' performances.
 
+-----
 
 ## Outliers
 
