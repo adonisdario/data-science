@@ -22,7 +22,7 @@ Initially, I will restructure the tables, rename columns, delete columns, clean 
 
 ## Standards
 
-For a goalkeeper to be considered top, It has to fulfill the following criteria: 
+For a goalkeeper to be considered top, it has to fulfill the following criteria: 
 
 - Played at least 42% of the league season games;
 > *16 games for the Premier League, La Liga or Serie A which have 20 teams for a total of 38 rounds or 14 games at Bundesliga or Ligue 1 which have 18 teams for a total of 34 rounds.*
@@ -44,7 +44,7 @@ For a goalkeeper to be considered top, It has to fulfill the following criteria:
 
 ### Rejected metrics
 
-Goals conceded and Clean sheets were discarded because these metrics are for the entire defensive system, not only for the goalkeeper.
+Goals conceded and Clean sheets were discarded because these metrics are for the entire defensive system, not only for the goalkeeper. Other metrics that shows the ability of a goalkeeper to build play, sweepes, passes and crossing are discarted as well. This study will turn into acount only the ball stopping ability of the goalkeeper.
 
 ## Chart
 
