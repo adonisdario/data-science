@@ -124,12 +124,12 @@ Now, let's analyse his performance for each team.
   
   GK:
     -  Save%:         94th  (62.9%) | **101st (57.4%)**
-    -  Goals Avoided: 99th  (-27.7) | **101st (-45.4)**
-    -  Saves/90:      **97th  (2.2)**   | 93rd  (2.3)
+    -  Goals Avoided: 77th  (-10.0) | **101st (-45.4)**
+    -  Saves/90:      **97th  (2.1)**   | 93rd  (2.3)
     -  90s played:    56%           | 42%
       
   Team:
-    - SoTA/90:        9th   (3.5)    | **24th (3.8)**
+    - SoTA/90:        9th   (3.3)    | **24th (3.8)**
     - PSxG/90:        20th  (1.05)   | **24th (1.08)**
 
 Strasbourg:
