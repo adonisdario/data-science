@@ -138,7 +138,7 @@ Strasbourg:
   > *After M. Sels departure, Alaa Bellaarouch took his place. His performances were slightly better than Sels', still it was very bad. However, the defensive linemen got worse and Strasbourg struggled to secure a place in the Ligue 1.*
  
 Nottingham Forest:
-  > *Before M. Sels arrival at N. Forest, the team was 64th in SoTA/90 (4.6) and 62nd in PSxG/90 (1.4). As for the goalkeepers, they were 99th in Save% (58.8%), 101st in Goals Avoided (-39.3) and 82nd in Saves/90 (2.5);*
+  > *Before M. Sels arrival at N. Forest, the team was 64th in SoTA/90 (4.6) and 62nd in PSxG/90 (1.4). As for the goalkeepers, they were 100th in Save% (58.8%), 101st in Goals Avoided (-39.3) and 82nd in Saves/90 (2.5);*
 
   > *After M. Sels arrival, the defensive linemen improved from regular to good, but not because of Sels' performances. In fact, he was slightly worse than the previous goalkeepers, becoming the worst goalkeeper in Save%, Goals Avoided and bottom 10 in Saves/90.*
 
