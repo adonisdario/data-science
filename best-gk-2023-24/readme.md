@@ -133,7 +133,7 @@ Now, let's analyse his performance for each team.
     - PSxG/90:        20th  (1.05)   | **24th (1.08)**
 
 Strasbourg:
-  > *Strasbourg had a very good defense, conceding very few Shots on Target with very low value chances, and still was struggling because of M. Sels being at the bottom 10 of Save%, Seves/90 and Goals Avoided;*
+  > *Strasbourg had a very good defense, conceding very few Shots on Target with very low value chances, and still was struggling because of M. Sels being at the bottom 10 of Save%, Saves/90 and Goals Avoided;*
 
   > *After M. Sels departure, Alaa Bellaarouch took his place. His performances were slightly better than Sels', still it was very bad. However, the defensive linemen got worse and Strasbourg struggled to secure a place in the Ligue 1.*
  
