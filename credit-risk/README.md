@@ -35,27 +35,27 @@ To make thing even harder for John, by the chart below we see the probability of
 ![heatmap](images/inadprob.png)
 
 John have one non complient credit line, making him one of the 5% of the clients that have non complient credit lines. 
-John should not have a new credit line.
+John should not have a new credit line, and here are some arguments thar reinforce this suggestion:
 
-Para fortalecer a nossa decisão, podemos ainda reforçá-la com os seguintes argumentos:
-
- - Dentro da análise de crédito, no contexto da nossa carteira, torna-se interessante a concessão do mesmo mediante a condição de o solicitante ter, no máximo, 10 linhas de crédito já abertas (a depender da sua classificação no dataset, o valor pode ser menor). O propósito deste tipo de critério serve para mitigar o risco de inadimplência.
+- Whithin credit analysis it is interesting to conced a loan to a client which has a maximum of 10 active lines of credit, depending on the rank of the client the maximum can be lower. The reason behind this is to mitigate the risk of non-complience by the client.
 
  ![heatmap](images/risco10contas.png)
 
- Seguindo um raciocínio semelhante, mas analisando as contas INADIMPLENTES, a partir de um determinado número, a quantidade do valor do empréstimo é diminuída significativamente, reiterando a importância do prêmio de risco do crédito (que também pode ser justificado com o aumento na taxa de juros).
+- Following a similar thought but analysing non-compliant accounts, at a certain point the loan amount is lowered significantly reinforcing the importance of kwnowing the risk-reward limit for a company to conced a loan, and justifies the raise of the interest rate.
 
 ![heatmap](images/contas_atraso_qtd_emp.png)
 
-Analisando o grupo E como um todo, podemos visualizar as distribuições amostrais de renda anual de acordo com o perfil do grupo. Em seguida, aumentaremos a quantidade de amostras para analisar o comportamento da distribuição à medida em que aumentamos, de maneira a observar a possível flutuação do salário de João, tornando mais previsível o comportamento de renda dele e possibilitando a tomada de decisão em relação à concessão de crédito.
+## Group E
+
+- By looking at rank E as a whole we can see the sampling distributions of annual income according to the group's profile. Raising afterwards the quantity of samples to monitor the behavior of the distribution we can see the floating of John's annual income of USD 95,000.
 
 ![heatmap](images/tlc.png)
 
-Como decisão final, optamos por não conceder crédito para João, tendo em vista que:
+In conclusion, we suggest that the loan should not be conceded to John takeing into account that:
 
-1) Ele já está inadimplente
-2) Não possui renda comprovada
-3) Não tem garantias para pagamento de empréstimo
-4) Possui 35 linhas de crédito em aberto
-5) Está solicitando empréstimo para cobrir outras dívidas
+1) He's already non-compliant whit his open lines
+2) Does not have a certified annual income
+3) Does not have warranties
+4) Has 16 open credit lines of a total of 35 lines
+5) He's applying for a loan to paay other debts
 
