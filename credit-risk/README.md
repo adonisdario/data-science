@@ -22,19 +22,20 @@ Speaking of rent, 39% of the loan applicants currently pays rent, which is an al
 
 Looking deeply to the delinquent group, 36.8% of them applied for a loan to pay for the credit card debt. Applying for a loan to pay for a debt is a red flag. The applicant must have good warranties to get approved.
 
-By the heatmap below we can analyse the distribution of the purpose of the loan for each rank. The collor tells the average annual income of each group:
+By the heatmap below we can analyse the distribution of the purpose of the loan for each rank. The collor tells the average annual income of each group and its purposes:
 
 ![heatmap](images/heatmap.png)
 
-Um ponto extremamente importante da concessão de crédito é a manutenção de crédito, onde analisamos grupos que interessam e que não interessam, no intuito de mapear em quais grupos podemos aplicar diferentes estratégias de concessão e manutenção, como aumentar a concessão de crédito e os limites dos bons pagadores e grupos bem rankeados e bolar estratégias de recuperação, diminuição de limite ou até exclusão dos devedores da carteira de crédito. Por que focaríamos nossos esforços com indivíduos como João se 41.83% da nossa carteira de crédito possui casa própria ou tem emprego há mais de 10 anos? Indo além, ainda podemos criar uma nova classificação A+ para indivíduos que possuem ambas as características, ainda que seja um seleto grupo de 2.97%.
+An extremely important matter of the credit concession is the credit maintenance, where we confirm which groups are interesting to conced credit loans, increase limits and which groups have to have recovery strategies, limit lowering or even exclusion of the credit lines. 
+Why conced a credit line to John if 41.8% of the clients owns a house or are employed for at least 10 years? 
+In fact, merging these two characteristics together we can create another rank A+ for 2.97% of the clients. These high ranked groups have a high annual income on average, like John's. However, unlike John people from high ranks have certified income. The probability of a client that's complient with its debts to apply for a loan that do not compromise its monthly income by 35%, is 89.4%.
 
-Estes bons grupos possuem altas rendas anuais. A média de renda do grupo A é de quase USD 95000, como João, mas diferente dele, o grupo A possui bons indicadores. Para se ter uma ideia, a probabilidade de um solicitante adimplente pedir um empréstimo, tal que não comprometa sua renda mensal em mais de 35%, é de 89.42%.
-
-Para deixar a situação de João ainda mais difícil, podemos analisar a distribuição da quantidade de contas adimplentes e inadimplentes da carteira de crédito utilizando a variável aleatória **acc_now_delinq**.
+To make thing even harder for John, by the chart below we see the probability of a client to have non complient lines of credit, using the **acc_now_delinq** column.
 
 ![heatmap](images/inadprob.png)
 
-Analisando com esta variável aleatória, fica evidente que não devemos conceder crédito para João.
+John have one non complient credit line, making him one of the 5% of the clients that have non complient credit lines. 
+John should not have a new credit line.
 
 Para fortalecer a nossa decisão, podemos ainda reforçá-la com os seguintes argumentos:
 
