@@ -1,3 +1,4 @@
+### Authors: @adonisdario, @caiocguedes
 # Análise de risco de crédito com métodos estatísticos
 
 Olá! Vamos explorar como conceitos estatísticos podem ser aplicados a uma análise de crédito real, analisando uma eventual proposta de um indivíduo chamado João, que está buscando um empréstimo para cumprir com as suas obrigações. A análise aplicará os conceitos não só ao indivíduo em si, mas também ao grupo no qual ele está inserido.
