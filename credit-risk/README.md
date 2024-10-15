@@ -22,7 +22,7 @@ Speaking of rent, 39% of the loan applicants currently pays rent, which is an al
 
 Looking deeply to the delinquent group, 36.8% of them applied for a loan to pay for the credit card debt. Applying for a loan to pay for a debt is a red flag. The applicant must have good warranties to get approved.
 
-By the heatmap below we can analyse the distribution of the purpose of the loan for each rank:
+By the heatmap below we can analyse the distribution of the purpose of the loan for each rank. The collor tells the average annual income of each group:
 
 ![heatmap](images/heatmap.png)
 
