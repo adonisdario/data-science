@@ -1,28 +1,28 @@
-### Authors: [Adônis Dário](https://github.com/adonisdario), [Caio Guedes](https://github.com/caiocguedes)
-# Análise de risco de crédito com métodos estatísticos
+### Authors: [Adônis Dário](https://github.com/adonisdario), [Caio Guedes](https://github.com/caiocguedes), Eveline Cavalcanti e Fernando Rangel
+# Cridit risk analysis using statistic methods
 
-Olá! Vamos explorar como conceitos estatísticos podem ser aplicados a uma análise de crédito real, analisando uma eventual proposta de um indivíduo chamado João, que está buscando um empréstimo para cumprir com as suas obrigações. A análise aplicará os conceitos não só ao indivíduo em si, mas também ao grupo no qual ele está inserido.
+Let's explore how statistics concepts can be used to a real credit risk analysis.
+Our study case will be a person named John, who is wanting a loan to fulfill his obligations.
+Not only the analysis will apply to an individual, but also for the social group which he's in.
 
-O dataset do projeto pode ser encontrado [neste link](https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data/discussion?sort=hotness).
+The dataset used can be found [here](https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data/discussion?sort=hotness).
 
-## Apresentando o Caso de João
+## Introducting John's case
 
-João é um jovem empreendedor classificado dentro do grupo E do dataset, onde se localizam mutuários de baixa performance e com um perfil de crédito não atrativo, seja em relação à inadimplência, score, renda anual, comprovação de renda, tipo de emprego, dentre outros dados importantes para a tomada de decisão na concessão de crédito.
+John is a young entrepreneur classified at group E, where low performance borrowers are ranked with a not attractive credit profile.
+As we walk through John's information, we detect some interesting data for a rank E profile. So, why he's ranked so low?
 
-João possui alguns dados interessantes para um perfil de classe E, então por que ele possui uma classificação tão baixa?
+1) He's a defaulter (**acc_now_delinq** > 0);
+2) Although having a annual income of USD 95,000 his income could not be assured;
+3) He has 35 open credit lines. Being a constant credit applicant means that he struggles finantially;
+4) His loan objective is to pay a credit card debt, which is implies a lack of finantial control;
+5) John pays rent.
 
-1) Ele está inadimplente (**acc_now_delinq** > 0)
+Speaking of rent, 39% of the loan applicants currently pays rent, which is an alert to keep in mind when awarding credit to a phisics person. The probability of non-payment by a individual that pays rent increases because it is a constant expense on your income. Strike for John.
 
-2) Apesar de possuir uma renda anual de USD 95000, ele não possui comprovação de renda
-3) Ele possui 35 linhas de crédito abertas. É um cliente que solicita crédito de maneira recorrente, o que indica dificuldades financeiras
-4) Os dados deste empréstimo indicam que ele está solicitando dinheiro para pagar o cartão de crédito, o que é um péssimo indicativo de controle financeiro
-5) João mora de aluguel
+Looking deeply to the delinquent group, 36.8% of them applied for a loan to pay for the credit card debt. Applying for a loan to pay for a debt is a red flag. The applicant must have good warranties to get approved.
 
-Por falar em aluguel, 39% dos solicitantes de empréstimos se encontram nesta situação, o que é um fator de atenção para a concessão de crédito para pessoas físicas! A probabilidade de inadimplência aumenta quando o indivíduo possui um aluguel a pagar, pois é uma dedução mensal garantida da sua renda. Ponto negativo para João! 
-
-Olhando mais a fundo para o grupo dos inadimplentes, 36.81% deles solicitaram empréstimos para pagar o cartão de crédito, o que é um péssimo indicativo. Ora, se uma pessoa precisa de dinheiro emprestado para pagar uma dívida, qual a garantia de que ela vai poder pagar o empréstimo?
-
-Com o mapa de calor abaixo, podemos analisar melhor a distribuição das finalidades de empréstimos de cada classe:
+By the heatmap below we can analyse the distribution of the purpose of the loan for each rank:
 
 ![heatmap](images/heatmap.png)
 
