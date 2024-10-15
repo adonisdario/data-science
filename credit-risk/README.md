@@ -7,7 +7,7 @@ Not only the analysis will apply to an individual, but also for the social group
 
 The dataset used can be found [here](https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data/discussion?sort=hotness).
 
-## Introducting John's case
+## Introducing John's case
 
 John is a young entrepreneur classified at group E, where low performance borrowers are ranked with a not attractive credit profile.
 As we walk through John's information, we detect some interesting data for a rank E profile. So, why he's ranked so low?
