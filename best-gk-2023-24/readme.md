@@ -6,6 +6,8 @@ Following the Yashin trophy nominees for the best goalkeeper of the season, in t
 
 This study will include only the top 5 european leagues, England, Spain, Italy, Germany and France. Meaning that other leagues, national cups, continental tournaments, and international friendlies and tournaments will not be accounted. 
 
+The code is in this file but you can click directly through [here](https://github.com/adonisdario/data-science/blob/main/best-gk-2023-24/Top_Goalkeepers_23_24.ipynb)
+
 ## Introduction
 
 Using the links below, I was able to retrieve all the information I needed to create this notebook.
