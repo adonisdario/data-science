@@ -5,7 +5,8 @@ Let's explore how statistics concepts can be used to a real credit risk analysis
 Our study case will be a person named John, who is wanting a loan to fulfill his obligations.
 Not only the analysis will apply to an individual, but also for the social group which he's in.
 
-The dataset used can be found [here](https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data/discussion?sort=hotness).
+[Dataset used](https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data/discussion?sort=hotness).
+[Code built](https://github.com/adonisdario/data-science/blob/main/credit-risk/Analise_de_Credito.ipynb)
 
 ## Introducing John's case
 
