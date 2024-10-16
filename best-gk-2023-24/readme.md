@@ -169,3 +169,5 @@ Looking at the chart of the best goalkeepers there are two that cought my attent
 ### Outliers Conclusion
 
 E. Martínez was the goalkeeper that is there when you need him the most. His team was agressive and he made important saves when his defence got past by. He was the star of the defense. M. Maignan on the other hand could've made his team one of the top defenses of the world, if he had made the hardest saves.
+
+LinkedIn Profile: [Adonis Dario](https://linkedin.com/in/adonisdario)
