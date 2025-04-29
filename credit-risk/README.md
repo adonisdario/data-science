@@ -45,7 +45,7 @@ _OBS.: 2.9% of the clients have both an own house and work on the same job for o
 
 Para deixar a situação de João ainda mais difícil, podemos analisar a distribuição da quantidade de contas adimplentes e inadimplentes da carteira de crédito utilizando a variável aleatória acc_now_delinq.
 
-heatmap
+![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/inadprob.png?raw=true)
 
 Analisando com esta variável aleatória, fica evidente que não devemos conceder crédito para João.
 
@@ -53,15 +53,15 @@ Para fortalecer a nossa decisão, podemos ainda reforçá-la com os seguintes ar
 
     Dentro da análise de crédito, no contexto da nossa carteira, torna-se interessante a concessão do mesmo mediante a condição de o solicitante ter, no máximo, 10 linhas de crédito já abertas (a depender da sua classificação no dataset, o valor pode ser menor). O propósito deste tipo de critério serve para mitigar o risco de inadimplência.
 
-heatmap
+![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/risco10contas.png?raw=true)
 
 Seguindo um raciocínio semelhante, mas analisando as contas INADIMPLENTES, a partir de um determinado número, a quantidade do valor do empréstimo é diminuída significativamente, reiterando a importância do prêmio de risco do crédito (que também pode ser justificado com o aumento na taxa de juros).
 
-heatmap
+![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/contas_atraso_qtd_emp.png?raw=true)
 
 Analisando o grupo E como um todo, podemos visualizar as distribuições amostrais de renda anual de acordo com o perfil do grupo. Em seguida, aumentaremos a quantidade de amostras para analisar o comportamento da distribuição à medida em que aumentamos, de maneira a observar a possível flutuação do salário de João, tornando mais previsível o comportamento de renda dele e possibilitando a tomada de decisão em relação à concessão de crédito.
 
-heatmap
+![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/tlc.png?raw=true)
 
 Como decisão final, optamos por não conceder crédito para João, tendo em vista que:
 
