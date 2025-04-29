@@ -39,7 +39,8 @@ With the heatmap below, we can discourse about the purpose of the loan for each 
 
 An important topic when conceding credit is credit maintenance, where it is discussed about what kind of loan and maintenance strategies is going to be applied for each rank, like raising credit concession and limits to good payers and create recovery strategies, lowering the limits or even excluding debtors from the credit portfolio. 
 Therefore, why the bank should focus its attention to a client like John when 41.8% of the clients have their own house or have the same job for over 10 years, and John lacks both of these attributes?
-OBS.: 2.9% of the clients have both an own house and work on the same job for over a decade. Therefore, these clients should be in a higher rank like A+.
+
+_OBS.: 2.9% of the clients have both an own house and work on the same job for over a decade. Therefore, these clients should be in a higher rank like A+._
 
 
 Para deixar a situação de João ainda mais difícil, podemos analisar a distribuição da quantidade de contas adimplentes e inadimplentes da carteira de crédito utilizando a variável aleatória acc_now_delinq.
