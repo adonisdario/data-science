@@ -8,13 +8,13 @@ Eveline Cavalcanti
 
 Fernando Rangel
 
----
+# Objetive
 
 The analysis consists in applying statistic concepts in a Credit Concession of a bank. Through the data acquired by the bank, the group has to provide a report to the bank answering if the bank should or should not conced credit to a client.
 
 The dataset used in this study can be found [here](https://www.kaggle.com/datasets/hetvigandhi03/loan-risk-analysis-dataset-real-world-data/data).
 
----
+# Intro
 
 Today the group will explore statistical concepts that could be applied on a real credit concession analysis. We will explore the case of John, who's applying for a loan to comply with his debts. The analysis will not only aplly to John but also to the group which he is.
 
@@ -31,6 +31,8 @@ Why is John so low ranked?
 * He pays rent
   > 39% of the borrowers also pay rent, which is factor to consider when conceding credit. The likelihood of default increases when the individual has rent to pay, as this is a guaranteed monthly deduction from their income.
 
+# Discussion
+
 Analysing the group of default people, 36.8% of them applied for a loan to pay their credit card debt, which is a awful indicative. If a person needs to make a debt to pay another, what guarantees that the loan would be fulfilled?
 
 With the heatmap below, we can discourse about the purpose of the loan for each rank class, along with the average annual income represented by the heat color.
@@ -42,34 +44,31 @@ Therefore, why the bank should focus its attention to a client like John when 41
 
 _OBS.: 2.9% of the clients have both an own house and work on the same job for over a decade. Therefore, these clients should be in a higher rank like A+._
 
-
-Para deixar a situação de João ainda mais difícil, podemos analisar a distribuição da quantidade de contas adimplentes e inadimplentes da carteira de crédito utilizando a variável aleatória acc_now_delinq.
+Building a graph using the variable acc_now_delinq show us the percentage of clients that have open credit lines that are delinquent, which is almost 0,5%. Meaning that very few people is not fulfilling its payments and John is one of them.
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/inadprob.png?raw=true)
 
-Analisando com esta variável aleatória, fica evidente que não devemos conceder crédito para João.
-
-Para fortalecer a nossa decisão, podemos ainda reforçá-la com os seguintes argumentos:
-
-    Dentro da análise de crédito, no contexto da nossa carteira, torna-se interessante a concessão do mesmo mediante a condição de o solicitante ter, no máximo, 10 linhas de crédito já abertas (a depender da sua classificação no dataset, o valor pode ser menor). O propósito deste tipo de critério serve para mitigar o risco de inadimplência.
+To reduce the risk of delinquency the criterion of the bank should consider 10 open lines of credit the ideal number and 20 the maximum for each. The graph shows that few people apply for more than 30 credit lines, meaning that these people has to be treated as exception and with extreme caution to avoid delinquency.
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/risco10contas.png?raw=true)
 
-Seguindo um raciocínio semelhante, mas analisando as contas INADIMPLENTES, a partir de um determinado número, a quantidade do valor do empréstimo é diminuída significativamente, reiterando a importância do prêmio de risco do crédito (que também pode ser justificado com o aumento na taxa de juros).
+Back to delinquent accounts, the graph tells that from 1 delinquent account to 3 the average loan amount raises from USD 15,000 to USD 19,000 with USD 35,000 being the maximum amount that the bank had conceded. Having 4 or 5 delinquent accounts the average drops to USD 4,500 that justify the raise of the interest rate. John has 1 delinquent account of a loan amount of USD 25,000, half the amount of the maximum loan amount conceded by the bank.
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/contas_atraso_qtd_emp.png?raw=true)
 
-Analisando o grupo E como um todo, podemos visualizar as distribuições amostrais de renda anual de acordo com o perfil do grupo. Em seguida, aumentaremos a quantidade de amostras para analisar o comportamento da distribuição à medida em que aumentamos, de maneira a observar a possível flutuação do salário de João, tornando mais previsível o comportamento de renda dele e possibilitando a tomada de decisão em relação à concessão de crédito.
+Analysing rank E as a whole we can see the sampling distribution of annual incomes according to the groups’ profile. When raising the quantity of the sample, the distribution will change and with it John’s annual income floats making its behavior more predictable and helping the decision of conceding credit to him.
 
 ![alt text](https://github.com/adonisdario/data-science/blob/main/credit-risk/images/tlc.png?raw=true)
 
-Como decisão final, optamos por não conceder crédito para João, tendo em vista que:
+# Conclusion
 
-    Ele já está inadimplente
-    Não possui renda comprovada
-    Não tem garantias para pagamento de empréstimo
-    Possui 35 linhas de crédito em aberto
-    Está solicitando empréstimo para cobrir outras dívidas
+In conclusion the report tells that John should not receive another credit line because:
+*	He has a delinquent credit line
+*	His annual income is not checked
+*	He has no guarantees to pay its loans
+*	Has 35 open credit lines
+*	His loan purpose is to pay for other debts
+
 
 
 
