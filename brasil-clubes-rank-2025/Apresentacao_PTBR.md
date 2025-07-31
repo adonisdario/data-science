@@ -10,7 +10,7 @@ Link para a apresentação do LinkedIn: [Apresentação](https://www.canva.com/d
 
 Ranking dos maiores times do Brasil, que contabiliza as competições de âmbito nacional e internacional.
 
-# OBJETIVO
+# Objetivo
 
 O objetivo do estudo é construir um ranking histórico de todas as competições de Elite em que times brasileiros de futebol disputam.
 
@@ -35,71 +35,73 @@ O objetivo do estudo é construir um ranking histórico de todas as competiçõe
 	
   Para chegar ao topo da pirâmide, que é Torneio Mundial, via Campeonatos, um time que está apenas no Estadual, precisa terminar o Campeonato entre os melhores times do torneio que não estão nas divisões nacionais A, B ou C, para se classificar para a divisão D. Chegando na Série D, o time precisa ser um dos 4 melhores colocados de 8 do seu grupo na 1ª fase, passando para a fase eliminatória com 32 times. Os 4 times que chegarem na semifinal sobem para a Série C e disputam o título da D. Na Série C, o time precisa se classificar entre os primeiros 8 de 20 times da 1ª fase por pontos corridos e terminar entre os 2 melhores de 4 times do seu grupo da 2ª fase para subir para a Série B. Os primeiros colocados de cada grupo disputam o título da C. Na Série B, o time precisa se classificar entre os 4 primeiros do torneio de pontos corridos com 20 times para ascender à Série A. Na Série A, o time (geralmente) precisa terminar o torneio entre os 4 primeiros do torneio com 20 times para se classificar para a Copa Continental A (Libertadores). Chegando à Libertadores, o time precisa vencer o torneio com 32 times de quase todos os países da América do Sul para garantir a sua passagem para o Torneio Mundial no mesmo ano. No Torneio Mundial, o time precisa vencer o campeão da América do Norte, depois, o vencedor entre o campeão da África e Ásia para enfim enfrentar o campeão da Europa na grande final. Essa é a grande dificuldade de se tornar um campeão mundial e por isso vale a maior pontuação do ranking e o título de maior prestígio existente.
 
-## COMPETIÇÕES DE ELITE DO BRASIL
+## Competições de Elite do Brasil
 	
  Depois de conhecer a pirâmide do futebol brasileiro, chegamos nesta sub-pirâmide com as Competições de Elite. Essas são as competições que serão contabilizadas no ranking histórico.
  
   Percebemos que na base desta pirâmide estão a 1ª Divisão do Campeonato Brasileiro (Série A), a Copa do Brasil e a Copa Sulamericana. Todas estas competições garantem vaga à Copa Libertadores. Porém, atualmente, o Campeonato é jogado no formato de pontos corridos com 20 times. A Copa do Brasil é sempre no sistema eliminatório com cada time jogando contra 4 a 7 times. Já na Sulamericana, atualmente, joga-se contra 7 a 8 times, 3 numa fase de grupos e 4 em mata-mata.
 
-1.	Mundial de Clubes: 15.000 pontos (100%)
-2.	Libertadores: 6.750 pontos (45%)
-3.	Campeonato Brasileiro Série A: 2.250 pontos (15%)
-4.	Copa do Brasil: 2.100 pontos (14%)
-5.	Sulamericana: 1.950 pontos (13%)
+1.	**Mundial de Clubes**: 15.000 pontos (100%)
+2.	**Libertadores**: 6.750 pontos (45%)
+3.	**Campeonato Brasileiro Série A**: 2.250 pontos (15%)
+4.	**Copa do Brasil**: 2.100 pontos (14%)
+5.	**Sulamericana**: 1.950 pontos (13%)
 
 Comparando com a conquista Mundial, ganhar 3 Libertadores não seria equivalente, mas seria próximo em pontos. Lembrando que, para conquistar o Mundial é preciso conquistar a Libertadores.
+
 Ganhar o Brasileiro 3 vezes é equiparado a ganhar 1 Libertadores, porém, ganhar a Copa do Brasil ou a Sulamericana 3 vezes chega próximo, mas não é equivalente. Colocamos uma grandeza de 3 vezes maior porque na Libertadores, os melhores times dos outros países da América do Sul também estão competindo pelo título e a vaga no Mundial.
+
 O título das competições da base dessa pirâmide que traz mais prestígio seria o da 1ª Divisão, seguido da Copa do Brasil e da Sulamericana. Então por mais que elas estejam na mesma altura (garantam vaga para a Libertadores), há uma pequena diferença na pontuação de cada uma por causa do formato das competições e pelo valor subjetivo.
 
-## QUANTO VALE NÃO SER CAMPEÃO?
+## Quanto vale não ser campeão?
 
-* Copas:
-1.	Vice: 33%
-2.	Semifinal: 11%
-3.	Quartas: 5%
-4.	Oitavas: 3%
-5.	Fase de Grupos: 1,5%
-6.	Fase Preliminar: 0,3%
+* **Copas**:
+1.	**Vice**: 33%
+2.	**Semifinal**: 11%
+3.	**Quartas**: 5%
+4.	**Oitavas**: 3%
+5.	**Fase de Grupos**: 1,5%
+6.	**Fase Preliminar**: 0,3%
 
-*	Campeonato:
-1.	Vice: 33%
-2.	Top 4: 23%
-3.	Top 8: 17%
-4.	Top 12: 12%
-5.	Top 16 / Não Rebaixado: 8%
-6.	Top 24 / Rebaixado: 5%
-7.	Top 32: 4%
-8.	Top 64: 2%
-9.	Top 100: 1%
+*	**Campeonato**:
+1.	**Vice** : 33%
+2.	**Top 4**: 23%
+3.	**Top 8**: 17%
+4.	**Top 12**: 12%
+5.	**Top 16 / Não Rebaixado**: 8%
+6.	**Top 24 / Rebaixado**: 5%
+7.	**Top 32**: 4%
+8.	**Top 64**: 2%
+9.	**Top 100**: 1%
 
 ### Pontuações Exclusivas
 
-*	Mundial de Clubes:
-1.	3º Lugar: 16%
-2.	4º Lugar: 11%
+*	**Mundial de Clubes**:
+1.	**3º Lugar**: 16%
+2.	**4º Lugar**: 11%
 
-*	Copa do Brasil:
+*	**Copa do Brasil**:
  _A nomenclatura abaixo se refere às fases anteriores às Oitavas de Final._
-1.	-1F: 1,5%
-2.	-2F: 0,7%
-3.	-3F: 0,3%
-4.	-4F: 0,1%
+1.	**-1F**: 1,5%
+2.	**-2F**: 0,7%
+3.	**-3F**: 0,3%
+4.	**-4F**: 0,1%
 
-## OUTRAS COMPETIÇÕES DE ELITE
+## Outras Competições de <ins>Elite</ins>
 
 ### Mundiais
 	
  Existiram outras competições de Elite no passado. Umas foram equiparadas, unificadas ou reconhecidas como competições que chamamos de Elite.
  
-*	Taça Rio de 1951: 6.000 pontos (40%)
+*	**Taça Rio de 1951**: 6.000 pontos (40%)
 
 A Taça Rio 1951 foi reconhecida como o 1º torneio mundial entre clubes. O objetivo era reunir campeões nacionais dos países da Europa que participaram da Copa do Mundo, para enfrentar os campeões do Campeonato Paulista (Palmeiras) e Carioca (Vasco da Gama), que eram os principais campeonatos estaduais da época, quando não existia campeonato Nacional no Brasil. Como esta competição foi criada antes da concepção das competições continentais e antes mesmo do Brasil ter um campeonato Nacional, não possui o mesmo prestígio que os outros títulos mundiais, e também está abaixo da Libertadores.
 
-*	Copa Intercontinental: 12.750 pontos (85%)
+*	**Copa Intercontinental**: 12.750 pontos (85%)
 
 A Copa Intercontinental foi o torneio criado em 1960 para definir o melhor entre o campeão da Libertadores (América do Sul) e o campeão da Champions League (Europa). Visto que o Intercontinental incluía apenas dois continentes, o Mundial da FIFA tem mais prestígio que a Copa Intercontinental.
 
-*	Mundial de Clubes de 2000: 15.000 pontos (100%)
+*	**Mundial de Clubes de 2000**: 15.000 pontos (100%)
 
 Como o Intercontinental não incluía os vencedores dos outros continentes, em 2000 a FIFA cria a 1ª edição do torneio mundial disputada por 7 equipes campeãs continentais, mais o Al-Nassr representando a Ásia, o Real Madrid como campeão da Champions de 1998 e o campeão de 1998 do país sede, Brasil, que foi o Corinthians. Como a competição foi disputada, em sua maioria, por campeões continentais, ainda que não fosse do ano ou da temporada anterior ao ano da competição, a competição é equiparável ao mundial de clubes como é atualmente.
 
@@ -109,12 +111,12 @@ O Campeonato de 1937, o Torneio Roberto Gomes Pedrosa (Taça de Prata) e a Taça
 
 ### Copa Nacional B
 
-A Copa dos Campeões foi uma competição que reunia, principalmente, os campeões dos campeonatos regionais, Copa do Nordeste, Copa Norte, Rio-São Paulo, Centro-Oeste e Sul-Minas. O vencedor deste torneio garantia vaga para a Libertadores do ano seguinte.
+A **Copa dos Campeões Regionais** foi uma competição que reunia, principalmente, os campeões dos campeonatos regionais, Copa do Nordeste, Copa Norte, Rio-São Paulo, Centro-Oeste e Sul-Minas. O vencedor deste torneio garantia vaga para a Libertadores do ano seguinte.
 Conceitualmente, a Copa dos Campeões deveria ter mais prestígio que a Copa do Brasil. Porém, 3 dos 5 torneios regionais foram extintos, e com elas a Copa dos Campeões acabou, reduzindo a sua pontuação para ser equivalente a conquistar a vaga da Libertadores via Campeonato Nacional (1.050 pontos).
 
 ### Copa Continental B
 
-A outra competição que deixou de existir foi a Copa Conmebol, a precursora da atual Sulamericana. Teve início em 1992 e foi extinta em 1999. Os times se classificavam via Campeonato Brasileiro. As primeiras colocações davam vaga para a libertadores, e as seguintes davam vaga à Copa Conmebol. Por terem os mesmos formatos de disputa e os mesmos critérios de classificação, a Copa Conmebol e a Sulamericana são equivalentes (1.950 pontos).
+A outra competição que deixou de existir foi a **Copa Conmebol**, a precursora da atual Sulamericana. Teve início em 1992 e foi extinta em 1999. Os times se classificavam via Campeonato Brasileiro. As primeiras colocações davam vaga para a libertadores, e as seguintes davam vaga à Copa Conmebol. Por terem os mesmos formatos de disputa e os mesmos critérios de classificação, a Copa Conmebol e a Sulamericana são equivalentes (1.950 pontos).
 
 ## COMPETIÇÕES BÔNUS
 
@@ -122,7 +124,7 @@ A outra competição que deixou de existir foi a Copa Conmebol, a precursora da 
 
 * Supercopas
 
-A Recopa Sulamericana é a competição disputada, em dois jogos, entre os vencedores da Libertadores e da Sulamericana. Já a Supercopa Rei é o troféu disputado entre o campeão do Campeonato Brasileiro e o campeão da Copa do Brasil. Como a Recopa é um torneio internacional, tem um pouco mais de prestígio que a Supercopa Rei.
+A **Recopa Sulamericana** é a competição disputada, em dois jogos, entre os vencedores da Libertadores e da Sulamericana. Já a **Supercopa Rei** é o troféu disputado entre o campeão do Campeonato Brasileiro e o campeão da Copa do Brasil. Como a Recopa é um torneio internacional, tem um pouco mais de prestígio que a Supercopa Rei.
 
 O cálculo da pontuação é feito a partir de 5% da média entre os títulos que cada equipe venceu. Ou seja, Recopa Sulamericana vale 217,50 pontos e a Supercopa Rei vale 109,50 pontos.
 
@@ -160,11 +162,17 @@ Porque o futebol não se resume a títulos e a grandeza desportiva de um time ta
 Goiás (17º), Vitória (18º) e Guarani (19º). Apenas Guarani possui um título, então porque ele está abaixo de Vitória e Goiás?
 
 Ranking por competições entre Goiás, Vitória e Guarani: 
+
 Comp. / Time	Goiás	Vitória	Guarani
+
 Libertadores	22º 	n/a	17º
+
 Sulamericana	13º 	23º	n/a
-Série A	20º 	21º	19º
+
+Série A		20º 	21º	19º
+
 Copa do Brasil	21º 	20º	40º
+
 C. Camp. Reg.	9º 	11º	n/a
 
 Guarani está abaixo por causa do número de participações nas competições e também em boas campanhas na Sulamericana e Copa do Brasil. A baixa participação na Copa do Brasil se dá ao fato de que estando no Estado de São Paulo, onde tem 4 times grandes e outros times medianos, a disputa pela classificação na competição via Campeonato Estadual é mais acirrada que em outros Estados.
