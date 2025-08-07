@@ -1,8 +1,8 @@
 Criado por Adonis Dario | [LinkedIn](http://www.linkedin.com.br/in/adonisdario) | Email: dariopgm@gmail.com
 
-Link para o notebook: [Ranking Brasil 2025](editar link)
+Link para o notebook: [Ranking Brasil 2025](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/RANKING_BRASIL_2025.ipynb)
 
-Link para a planilha com o Ranking Completo [Ranking em Excel](editar link)
+Link para a planilha com o Ranking Completo de todos os 422 times [Ranking em Excel](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/Rank_Completo_Brasil_2025.xlsx)
 
 Link para a apresentação do LinkedIn: [Apresentação](https://www.canva.com/design/DAGkMUNMcpI/fQJ__UsIZh_A2C5tPTgFFw/edit?utm_content=DAGkMUNMcpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
@@ -318,6 +318,6 @@ Percebe-se que os únicos representantes da região Norte são Paysandu e Remo, 
 
 # PROCESSO DE AQUISIÇÃO DOS DADOS
 	
-  Todas as competições estão detalhadas ano por ano na wikipedia, com classificação final e chaveamento dos confrontos. Para cada competição foi construído um arquivo .ipynb para realizar o Web Scrapping de cada uma. O valor do título de cada competição fica em 100 pontos e segue as porcentagens anteriormente detalhadas para as outras posições.
+  Todas as competições estão detalhadas ano por ano na wikipedia, com classificação final e chaveamento dos confrontos. Para cada competição foi construído um arquivo .ipynb para realizar o Web Scrapping de cada uma. O valor do título de cada competição fica em 100 pontos e segue as porcentagens anteriormente detalhadas para as outras posições. Eles estão na pasta [Notebooks](https://github.com/adonisdario/data-science/tree/main/brasil-clubes-rank-2025/notebooks).
   
   Construído o ranking da competição específica, foi gerado uma planilha .xlsx e armazenado no pasta [Tabelas](https://github.com/adonisdario/data-science/tree/main/brasil-clubes-rank-2025/tabelas) para serem acessados no arquivo principal. No arquivo principal essas planilhas são recuperadas e assim são dados os pontos para título definidos previamente. Como a porcentagem foi distribuída nos arquivos anteriores, ao aplicar a pontuação automaticamente sai a quantidade de pontos real de cada competição.
