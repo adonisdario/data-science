@@ -142,7 +142,8 @@ A **Recopa Sulamericana** é a competição disputada, em dois jogos, entre os v
 
 O cálculo da pontuação é feito a partir de 5% da média entre os títulos que cada equipe venceu. Ou seja, Recopa Sulamericana vale 217,50 pontos e a Supercopa Rei vale 109,50 pontos.
 
-*	Bônus Copa do Brasil
+* Bônus Copa do Brasil
+
 Entre 2001 e 2012 os times que participavam da Libertadores eram impedidos de competir na Copa do Brasil, e por isso, a CBF em seu ranking oficial concedia um bônus a esses times.
 
 Para metrificar o bônus podemos nos basear que, de 2013 a 2020, quem participava da Libertadores entrava diretamente nas Oitavas de Final da Copa do Brasil, e de 2021 até o ano do ranking entra na 3ª Fase, por causa do aumento no número de times na competição, ou seja, 1 fase antes das Oitavas. Portanto, esse bônus será equivalente a ter chegado nas Oitavas de Final da Copa do Brasil (70 pontos).
