@@ -10,6 +10,8 @@ Link para a apresentação do LinkedIn: [Apresentação](https://www.canva.com/d
 
 Ranking dos maiores times do Brasil, que contabiliza as competições de âmbito nacional e internacional.
 
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/1.png?raw=true)
+
 # Objetivo
 
 O objetivo do estudo é construir um ranking histórico de todas as competições de Elite em que times brasileiros de futebol disputam.
@@ -28,6 +30,8 @@ O objetivo do estudo é construir um ranking histórico de todas as competiçõe
 4.	Também não serão contabilizados critérios como tamanho de torcida, engajamento em redes sociais, ou títulos em competições que este estudo não considera de "Competições de Elite".
 
 # Atual Pirâmide do Futebol Brasileiro
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/4.png?raw=true)
 	
   Atualmente, a base do Campeonato Nacional é o Campeonato Estadual. Um time que está apenas jogando o Estadual pode chegar ao topo em 5 anos via Campeonatos ou em 3 anos via Copas.
   
@@ -38,6 +42,8 @@ O objetivo do estudo é construir um ranking histórico de todas as competiçõe
 ## Competições de Elite do Brasil
 	
  Depois de conhecer a pirâmide do futebol brasileiro, chegamos nesta sub-pirâmide com as Competições de Elite. Essas são as competições que serão contabilizadas no ranking histórico.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/5.png?raw=true)
  
   Percebemos que na base desta pirâmide estão a 1ª Divisão do Campeonato Brasileiro (Série A), a Copa do Brasil e a Copa Sulamericana. Todas estas competições garantem vaga à Copa Libertadores. Porém, atualmente, o Campeonato é jogado no formato de pontos corridos com 20 times. A Copa do Brasil é sempre no sistema eliminatório com cada time jogando contra 4 a 7 times. Já na Sulamericana, atualmente, joga-se contra 7 a 8 times, 3 numa fase de grupos e 4 em mata-mata.
 
@@ -92,6 +98,8 @@ O título das competições da base dessa pirâmide que traz mais prestígio ser
 ### Mundiais
 	
  Existiram outras competições de Elite no passado. Umas foram equiparadas, unificadas ou reconhecidas como competições que chamamos de Elite.
+
+ ![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/9.png?raw=true)
  
 *	**Taça Rio de 1951**: 6.000 pontos (40%)
 
@@ -107,6 +115,8 @@ Como o Intercontinental não incluía os vencedores dos outros continentes, em 2
 
 ### Campeonato Nacional
 
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/10.png?raw=true)
+
 O Campeonato de 1937, o Torneio Roberto Gomes Pedrosa (Taça de Prata) e a Taça Brasil foram reconhecidos e equiparados como Campeonatos Brasileiros pela CBF (2.250 pontos).
 
 ### Copa Nacional B
@@ -116,11 +126,15 @@ Conceitualmente, a Copa dos Campeões deveria ter mais prestígio que a Copa do 
 
 ### Copa Continental B
 
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/11.png?raw=true)
+
 A outra competição que deixou de existir foi a **Copa Conmebol**, a precursora da atual Sulamericana. Teve início em 1992 e foi extinta em 1999. Os times se classificavam via Campeonato Brasileiro. As primeiras colocações davam vaga para a libertadores, e as seguintes davam vaga à Copa Conmebol. Por terem os mesmos formatos de disputa e os mesmos critérios de classificação, a Copa Conmebol e a Sulamericana são equivalentes (1.950 pontos).
 
 ## COMPETIÇÕES BÔNUS
 
   Estas competições são consideradas bônus, pois são torneios que não escalam a pirâmide do futebol.
+
+  ![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/12.png?raw=true)
 
 * Supercopas
 
@@ -137,21 +151,29 @@ Para metrificar o bônus podemos nos basear que, de 2013 a 2020, quem participav
 
 ## Por pontos:
 
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/15.png?raw=true)
+
 O Estado de São Paulo é que mais tem times no Top 20 com 6, incluindo os 3 primeiros, São Paulo, Palmeiras e Santos. O 4º grande time do Estado, Corinthians, tem uma diferença de 18.5k de pontos e vê seus rivais a partir do 6º lugar do ranking. Guarani e Portuguesa são os últimos do Top 20.
 
 O Rio de Janeiro também conta com seus 4 grandes times, mas o Flamengo (4º) possui uma diferença de pelo menos 49.4k de pontos sobre os seus rivais Vasco (10º), Fluminense (11º) e Botafogo (12º). Já a diferença média entre esses é de apenas 6.2k de pontos.
 
 Estados com 2 times no Top 20 incluem o Rio Grande do Sul com Grêmio (5º) e Internacional (8º) tendo uma diferença de 20.4k de pontos entre eles; Minas Gerais com Cruzeiro (7º) e Atlético-MG (9º) separados por uma diferença de 19.5k de pontos; o Estado do Paraná contando com Athletico-PR (13º) e Coritiba (16º) tendo uma diferença de 12.9k de pontos e por fim o Estado da Bahia incluindo o Bahia (14º) e o Vitória (18º) separados por 6.1k de pontos.
 
-Sport (15º) e Goiás (17º) são os representantes dos Estados de Pernambuco e Goiás.
+Sport (15º) e Goiás (17º) são os representantes dos Estados de Pernambuco e Goiás no Top 20.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/16.png?raw=true)
 
 ## Por troféus:
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/18.png?raw=true)
 
   Nota-se que o Palmeiras (23), Flamengo (21) e São Paulo (18) são os líderes em conquistas gerais. O São Paulo líder em Mundiais (3) e Continentais (7) e o Palmeiras lidera em conquistas Nacionais (18).
   
 Apesar do Cruzeiro ter 5 troféus a mais que o Internacional, a diferença entre eles é de 3.2k de pontos. Isso mostra que o Inter mesmo sem ganhar títulos é sempre muito competitivo e faz boas campanhas. 
 
 Guarani (19º) é o time de ranking mais baixo com um título. Já o Goiás (17º) é o time sem título com ranking mais alto.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/20.png?raw=true)
 
 ## PORQUE O RANKING NÃO É POR TÍTULOS?
 
@@ -161,39 +183,46 @@ Porque o futebol não se resume a títulos e a grandeza desportiva de um time ta
 
 Goiás (17º), Vitória (18º) e Guarani (19º). Apenas Guarani possui um título, então porque ele está abaixo de Vitória e Goiás?
 
-Ranking por competições entre Goiás, Vitória e Guarani: 
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/21.png?raw=true)
 
-Comp. / Time	Goiás	Vitória	Guarani
+Pontuação por competições entre Goiás, Vitória e Guarani: 
 
-Libertadores	22º 	n/a	17º
-
-Sulamericana	13º 	23º	n/a
-
-Série A		20º 	21º	19º
-
-Copa do Brasil	21º 	20º	40º
-
-C. Camp. Reg.	9º 	11º	n/a
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/22.png?raw=true)
 
 Guarani está abaixo por causa do número de participações nas competições e também em boas campanhas na Sulamericana e Copa do Brasil. A baixa participação na Copa do Brasil se dá ao fato de que estando no Estado de São Paulo, onde tem 4 times grandes e outros times medianos, a disputa pela classificação na competição via Campeonato Estadual é mais acirrada que em outros Estados.
 
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/23.png?raw=true)
+
 # PRATELEIRAS DO RANKING
 
-Temos o Ranking, mas e se dividirmos os times em faixas de pontuação ou prateleiras, como ficaria? Para criar as prateleiras dos times foram testados os métodos de Sturges, Scott e Friedman-Diaconis. O objetivo é fazer uma análise do top 20 clubes do Brasil e estender um pouco o alcance. Não é o objetivo fazer uma análise de todos os times que já participaram de uma competição de Elite.
+Temos o Ranking, mas e se dividirmos os times em faixas de pontuação ou prateleiras, como ficaria? Para criar as prateleiras dos times foram testados os métodos de Sturges, Scott e Friedman-Diaconis. O objetivo é fazer uma análise do top 20 clubes do Brasil e estender um pouco o alcance, sem fazer uma análise de todos os times que já participaram de uma competição de Elite.
 
 *	Friedman-Diaconis:
 O método Friedman-Diaconis foi rejeitado por criar muitas faixas de pontuação com pouca diferença entre elas. Além disso, muitas faixas ficavam vazias pois a diferença entre a pontuação dos times varia muito. Com esse método, foram criadas 1394 prateleiras com apenas 62 preenchidas com times.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/Regra_FD.png?raw=true)
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/Regra_FD_1.png?raw=true)
  
 *	Sturges:
 O método de Sturges também foi rejeitado pois ao contrário do Friedman-Diaconis este método criou apenas 10 prateleiras, com 1 vazia e a última prateleira aglutinada com 404 times. Para utilizar este método seria necessário criar sub-prateleiras com aquelas que possuem uma quantidade muito alta de times.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/Sturges.png?raw=true)
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/Sturges_1.png?raw=true)
  
 *	Scott:
 O método de Scott é o intermediário entre Friedman-Diaconis e Sturges. Foram criadas 18 prateleiras de pontuação, mas com 12 prateleiras preenchidas e a última com 397 times aglutinados assim como no método de Sturges. Com muitas prateleiras contendo poucos times, outras vazias e outras com muitos times, este método foi rejeitado.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/Scott.png?raw=true)
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/Scott_1.png?raw=true)
+
  
 *	Cálculo pelo intervalo:
-Pensando na análise de uma pequena parcela do total de times, foi definido o critério do cálculo pelo Intervalo da pontuação dos times, ou seja, a distância entre um time e seu antecessor. Levando em conta os 25 primeiros do ranking, podemos classificar as distâncias em 5 categorias variando de Muito Próximo a Muito Distante. Times com intervalos pequenos ficam juntos numa mesma prateleira. Quando a diferença for muito grande, uma nova prateleira é criada. Sendo assim as prateleiras ficaram assim: 
+Pensando na análise de uma pequena parcela do total de times, foi definido o critério do cálculo pelo Intervalo da pontuação dos times, ou seja, a distância entre um time e seu antecessor. Levando em conta os 25 primeiros do ranking, podemos classificar as distâncias em 5 categorias variando de Muito Próximo a Muito Distante. Times com intervalos pequenos ficam juntos numa mesma prateleira. Quando a diferença for muito grande, uma nova prateleira é criada.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/25.png?raw=true)
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/26.png?raw=true)
    
-	É notória a diferença de pontuação entre as prateleiras 5-6 (14.8k) e entre as prateleiras 6-7 (2.3k). Os títulos e a grande quantidade de participações nas competições de Elite estão concentrados nas 5 primeiras prateleiras. A 6ª prateleira é a última que tem times campeões do Campeonato Brasileiro. Abaixo dessa prateleira, tem alguns times que conquistaram a Copa do Brasil, mas que tem baixo número de participações e campanhas de destaque nas competições de Elite, por causa dos times das 5 primeiras prateleiras que ocupam as vagas dessas competições. Assim, os times da 6ª prateleira em diante tem menos chance de pontuar no ranking e a diferença entre eles seja próxima. Portanto, ao classificar uma distância como perto ou longe é preciso dar um peso para as prateleiras de 1-5 e outro peso para 6-10. Como é uma análise de um recorte, o critério manual foi escolhido, mas para uma análise completa seria necessário um dos critérios rejeitados acima.
+É notória a diferença de pontuação entre as prateleiras 5-6 (14.8k) e entre as prateleiras 6-7 (2.3k). Os títulos e a grande quantidade de participações nas competições de Elite estão concentrados nas 5 primeiras prateleiras. A 6ª prateleira é a última que tem times campeões do Campeonato Brasileiro. Abaixo dessa prateleira, tem alguns times que conquistaram a Copa do Brasil, mas que tem baixo número de participações e campanhas de destaque nas competições de Elite, por causa dos times das 5 primeiras prateleiras que ocupam as vagas dessas competições. Assim, os times da 6ª prateleira em diante tem menos chance de pontuar no ranking e a diferença entre eles seja próxima. Portanto, ao classificar uma distância como perto ou longe é preciso dar um peso para as prateleiras de 1-5 e outro peso para 6-10. Como é uma análise de um recorte, o critério manual foi escolhido, mas para uma análise completa seria necessário um dos critérios rejeitados acima.
 
 ## ANÁLISE DAS 5 PRIMEIRAS PRATELEIRAS
 
@@ -202,6 +231,8 @@ Pensando na análise de uma pequena parcela do total de times, foi definido o cr
 3.	Tier 3 tem Cruzeiro e Internacional que venceram 2 Libertadores e o Corinthians 1. Já em títulos mundiais, Corinthians tem 2 e Internacional 1 Esses times tem uma média de 8 Títulos Nacionais. A distância média entre esses times é um pouco distante, 6.1k de pontos;
 4.	Tier 4 possui Atlético-MG, Vasco e Fluminense vencedores de 1 Libertadores e uma média de 5 títulos Nacionais. A distância média entre os times é razoável, 4.9k de pontos;
 5.	Tier 5 tem Botafogo e Athletico-PR; Libertadores: 1 título x 2 vices; Nacionais: 3x2; Sulamericanas: 1x2. A distância média é a maior entre as 5 prateleiras, 8.3k de pontos. O Bahia, que é o próximo do ranking, tem uma diferença para o Athetico-PR de 9.9k de pontos, mas como seu sucessor é o Sport com 3k de pontos, o Bahia cai para a 6ª prateleira.
+
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/27.png?raw=true)
  
 A diferença média entre as prateleiras é de 22,3k. Mas em média, quantos pontos um time precisa para subir no ranking?
 
@@ -229,6 +260,8 @@ Visto que os primeiros de cada prateleira são Palmeiras, Corinthians, Atlético
 
 ## ANÁLISE DAS PRATELEIRAS 6-10
 
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/31.png?raw=true)
+
 A diferença média entre prateleiras 1-5 e 6-10 reduz de 22,3k para 1,4k. Por quê?
 
 *	A prateleira 5 é a última a ter times com títulos continentais;
@@ -237,7 +270,7 @@ o	Bahia com 2, Coritiba, Sport e Guarani com 1 título. OBS.: Sport venceu tamb�
 *	Apesar de Juventude¹ e Criciúma² terem vencido a Copa do Brasil e o Paysandu³ ter vencido a Copa dos Campeões, eles possuem poucas participações nas competições de Elite e, com isso, esses times fazem poucos pontos e não se distanciam dos outros times.
 *	Nos Tiers 1-5 há 13 times que estão quase sempre na Série A. Sobra então 7 vagas para as prateleiras 6-10. Já na Copa do Brasil, que a classificação é via Campeonato Estadual, os times que estão em Estados mais "fortes" como São Paulo (São Caetano e RB Bragantino e Ponte Preta) têm dificuldades para classificar para esta competição e estarem aptos a pontuar.
 
-Colocar aqui a tabela de participações
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/32.png?raw=true)
 
 Olhando a tabela percebe-se um declínio na média de participações nas competições de Elite à media que descemos as prateleiras, tirando assim a possibilidade de pontuação por parte dos times menores, e fazendo com que a diferença de pontos entre os times dos Tiers 1-5 seja maior do que os times dos Tiers 6-10.
 
@@ -252,7 +285,7 @@ Em média, quantos pontos um time precisa para subir no ranking?
 
 ### Quem pode subir no ranking de 2026:
 
-Em 2025, Bahia, Sport, Vitória, Fortaleza, Ceará, Juventude e  Bragantino são os times da Série A e Copa do Brasil, enquanto que Coritiba, Portuguesa, Náutico, Ponte Preta, Paysandu e Criciúma estarão apenas na Copa do Brasil. Considerando isso:
+Em 2025, Bahia, Sport, Vitória, Fortaleza, Ceará, Juventude e Bragantino são os times participantes da Série A e Copa do Brasil, enquanto que Coritiba, Portuguesa, Náutico, Ponte Preta, Paysandu e Criciúma estarão apenas na Copa do Brasil. Considerando isso:
 
 **Muito provável**: Ceará e Bragantino provavelmente subirão de posição no próximo ranking, mesmo se forem rebaixados;
 
@@ -272,12 +305,18 @@ Em 2025, Bahia, Sport, Vitória, Fortaleza, Ceará, Juventude e  Bragantino são
 
 # RANKING NORTE-NORDESTE
 
-Foto
+![alt text](https://github.com/adonisdario/data-science/blob/main/brasil-clubes-rank-2025/images/35.png?raw=true)
 
-Percebe-se que os únicos representantes da região Norte são Paysandu e Remo, ambos do Estado do Pará. No Nordeste, confirma-se a percepção do G7 com  Bahia e Sport no topo da pirâmide, Vitória isolado abaixo deles, Fortaleza e Náutico no 3º patamar, Ceará e Santa Cruz na base do G7.
+Percebe-se que os únicos representantes da região Norte são Paysandu e Remo, ambos do Estado do Pará. No Nordeste, confirma-se a percepção do G7 com Bahia e Sport no topo da pirâmide, Vitória isolado abaixo deles, Fortaleza e Náutico no 3º patamar, Ceará e Santa Cruz na base do G7.
+
+1. Bahia e Sport: Únicos do Nordeste com títulos nacionais. Mesmo na mesma prateleira, Bahia tem 5.5k de pontos de vantagem juntando Série A, Libertadores e Sulamericana. O Sport leva vantagem nas Copas Nacionais com 2.5k pontos, totalizando uma vantagem de 3.1k de pontos pró Bahia;
+2. Vitória isolado com 5k de pontos abaixo do Sport por causa da falta de títulos e 3k acima de Fortaleza e Náutico pelo alto número de participações na Série A e Copa do Brasil onde conquistou 1 vice em cada competição;
+3. Fortaleza, Náutico e Ceará tem números semelhantes de vices e semifinais de Copa do Brasil, porém Fortaleza e Náutico têm maiores números de vices e Top4 da Série A. Fortaleza também leva vantagem em pontos na Sulamericana;
+4. Paysandu e Santa Cruz tem pontos semelhantes na Copa do Brasil e Série A, mas o Paysandu leva vantagem por ter vencido a Copa dos Campeões Regionais e participado da Libertadores. A distância entre os times do Tier 3 e o Paysandu faz com que o Ceará esteja no Tier 4;
+5. Remo e CSA são os times que menos participaram da Série A. O Remo leva vantagem na Copa do Brasil, participando de 32 edições e chegando em 1 semifinal, contra 21 participações do CSA com 1 quartas de final. Porém o CSA já foi vice da Copa Conmebol, fazendo com que a diferença entre eles seja de 248 pontos.
 
 # PROCESSO DE AQUISIÇÃO DOS DADOS
 	
   Todas as competições estão detalhadas ano por ano na wikipedia, com classificação final e chaveamento dos confrontos. Para cada competição foi construído um arquivo .ipynb para realizar o Web Scrapping de cada uma. O valor do título de cada competição fica em 100 pontos e segue as porcentagens anteriormente detalhadas para as outras posições.
   
-  Construído o ranking da competição específica, foi gerado uma planilha .xlsx e armazenado no pa pasta [Tabelas](https://github.com/adonisdario/data-science/tree/main/brasil-clubes-rank-2025/tabelas) para serem acessados no arquivo principal. No arquivo principal essas planilhas são recuperadas e assim são dados os pontos para título definidos previamente. Como a porcentagem foi distribuída nos arquivos anteriores, ao aplicar a pontuação automaticamente sai a quantidade de pontos real de cada competição.
+  Construído o ranking da competição específica, foi gerado uma planilha .xlsx e armazenado no pasta [Tabelas](https://github.com/adonisdario/data-science/tree/main/brasil-clubes-rank-2025/tabelas) para serem acessados no arquivo principal. No arquivo principal essas planilhas são recuperadas e assim são dados os pontos para título definidos previamente. Como a porcentagem foi distribuída nos arquivos anteriores, ao aplicar a pontuação automaticamente sai a quantidade de pontos real de cada competição.
